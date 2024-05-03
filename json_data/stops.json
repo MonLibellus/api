@@ -1,0 +1,3834 @@
+[
+  {
+    "stop_id": "zenbus:StopPoint:SP:843730008:LOC",
+    "stop_code": "DURENQUE",
+    "stop_name": "DURENQUE",
+    "stop_lat": "43.60324",
+    "stop_lon": "2.243824",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834510003:LOC",
+    "stop_code": "SICARD",
+    "stop_name": "SICARD",
+    "stop_lat": "43.607749",
+    "stop_lon": "2.241614",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843740004:LOC",
+    "stop_code": "COLLEGE JEAN-JAURES",
+    "stop_name": "COLLEGE JEAN-JAURES",
+    "stop_lat": "43.608517",
+    "stop_lon": "2.237561",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834470004:LOC",
+    "stop_code": "ZOLA",
+    "stop_name": "ZOLA",
+    "stop_lat": "43.60661",
+    "stop_lon": "2.237233",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843700013:LOC",
+    "stop_code": "EVECHE",
+    "stop_name": "EVECHE",
+    "stop_lat": "43.603111",
+    "stop_lon": "2.238807",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:839690006:LOC",
+    "stop_code": "GARES CASTRES",
+    "stop_name": "GARES CASTRES",
+    "stop_lat": "43.598411",
+    "stop_lon": "2.230341",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826700004:LOC",
+    "stop_code": "MAILLOT",
+    "stop_name": "MAILLOT",
+    "stop_lat": "43.600276",
+    "stop_lon": "2.239618",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828690004:LOC",
+    "stop_code": "LES CEDRES",
+    "stop_name": "LES CEDRES",
+    "stop_lat": "43.60194",
+    "stop_lon": "2.241817",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856850007:LOC",
+    "stop_code": "CHARTREUSE",
+    "stop_name": "CHARTREUSE",
+    "stop_lat": "43.589973",
+    "stop_lon": "2.188334",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834480007:LOC",
+    "stop_code": "REGNAULT",
+    "stop_name": "REGNAULT",
+    "stop_lat": "43.591278",
+    "stop_lon": "2.188886",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856840005:LOC",
+    "stop_code": "BELESTA",
+    "stop_name": "BELESTA",
+    "stop_lat": "43.590549",
+    "stop_lon": "2.185779",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851150005:LOC",
+    "stop_code": "CALMETTES",
+    "stop_name": "CALMETTES",
+    "stop_lat": "43.588338",
+    "stop_lon": "2.185479",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853080006:LOC",
+    "stop_code": "MAISON NEUVE",
+    "stop_name": "MAISON NEUVE",
+    "stop_lat": "43.587642",
+    "stop_lon": "2.186293",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843760005:LOC",
+    "stop_code": "MELOU/R",
+    "stop_name": "MELOU",
+    "stop_lat": "43.591964",
+    "stop_lon": "2.209339",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849270016:LOC",
+    "stop_code": "MONTREVEIL/R",
+    "stop_name": "MONTREVEIL",
+    "stop_lat": "43.592826",
+    "stop_lon": "2.214083",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:810260006:LOC",
+    "stop_code": "LE VERDIER/R",
+    "stop_name": "LE VERDIER",
+    "stop_lat": "43.593074",
+    "stop_lon": "2.217095",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824780006:LOC",
+    "stop_code": "CASTRES GUYNEMER/R",
+    "stop_name": "CASTRES GUYNEMER",
+    "stop_lat": "43.59513",
+    "stop_lon": "2.224137",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851130010:LOC",
+    "stop_code": "ARSENAL/R",
+    "stop_name": "ARSENAL",
+    "stop_lat": "43.595771",
+    "stop_lon": "2.227855",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826710004:LOC",
+    "stop_code": "LADEN/R",
+    "stop_name": "LADEN",
+    "stop_lat": "43.594585",
+    "stop_lon": "2.230214",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:863050005:LOC",
+    "stop_code": "BARRAL/R",
+    "stop_name": "BARRAL",
+    "stop_lat": "43.59304",
+    "stop_lon": "2.233189",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843720009:LOC",
+    "stop_code": "TRIOLET/R",
+    "stop_name": "TRIOLET",
+    "stop_lat": "43.593475",
+    "stop_lon": "2.235869",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849350007:LOC",
+    "stop_code": "LACAZE BASSE/R",
+    "stop_name": "LACAZE BASSE",
+    "stop_lat": "43.595268",
+    "stop_lon": "2.236869",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853070012:LOC",
+    "stop_code": "SAINT ROCH/R",
+    "stop_name": "SAINT ROCH",
+    "stop_lat": "43.597164",
+    "stop_lon": "2.237939",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828680004:LOC",
+    "stop_code": "FUZIES",
+    "stop_name": "FUZIES",
+    "stop_lat": "43.605862",
+    "stop_lon": "2.245299",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:837880003:LOC",
+    "stop_code": "CARNOT",
+    "stop_name": "CARNOT",
+    "stop_lat": "43.607048",
+    "stop_lon": "2.245402",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:830780017:LOC",
+    "stop_code": "DROUOT/R",
+    "stop_name": "DROUOT",
+    "stop_lat": "43.603019",
+    "stop_lon": "2.24796",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824770008:LOC",
+    "stop_code": "MERIGONDE",
+    "stop_name": "MERIGONDE",
+    "stop_lat": "43.601741",
+    "stop_lon": "2.252626",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:810270007:LOC",
+    "stop_code": "LYAUTEY/R",
+    "stop_name": "LYAUTEY",
+    "stop_lat": "43.603516",
+    "stop_lon": "2.254143",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:858800008:LOC",
+    "stop_code": "LECLERC",
+    "stop_name": "LECLERC",
+    "stop_lat": "43.605979",
+    "stop_lon": "2.255979",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851140008:LOC",
+    "stop_code": "FILTRES/R",
+    "stop_name": "FILTRES",
+    "stop_lat": "43.607626",
+    "stop_lon": "2.256928",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849340011:LOC",
+    "stop_code": "CIGALES/R",
+    "stop_name": "CIGALES",
+    "stop_lat": "43.609875",
+    "stop_lon": "2.260155",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:814590010:LOC",
+    "stop_code": "JOFFRE/R",
+    "stop_name": "JOFFRE",
+    "stop_lat": "43.610366",
+    "stop_lon": "2.257719",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:836080008:LOC",
+    "stop_name": "BLEUETS",
+    "stop_lat": "43.610176",
+    "stop_lon": "2.255295",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856850012:LOC",
+    "stop_code": "BONAFE",
+    "stop_name": "BONAFE",
+    "stop_lat": "43.611511",
+    "stop_lon": "2.248091",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831800015:LOC",
+    "stop_code": "PUECH/R",
+    "stop_name": "PUECH",
+    "stop_lat": "43.613193",
+    "stop_lon": "2.248453",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828600014:LOC",
+    "stop_code": "AILLOT/R",
+    "stop_name": "AILLOT",
+    "stop_lat": "43.614756",
+    "stop_lon": "2.246868",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843720015:LOC",
+    "stop_code": "CASTRES LANGUEDOC/R",
+    "stop_name": "CASTRES LANGUEDOC",
+    "stop_lat": "43.615829",
+    "stop_lon": "2.246032",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856830009:LOC",
+    "stop_code": "AQUITAINE/R",
+    "stop_name": "AQUITAINE",
+    "stop_lat": "43.616165",
+    "stop_lon": "2.248013",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:837880006:LOC",
+    "stop_code": "BOURIATTE/R",
+    "stop_name": "BOURIATTE",
+    "stop_lat": "43.615245",
+    "stop_lon": "2.249878",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:836670001:LOC",
+    "stop_code": "GARE/R",
+    "stop_name": "GARE",
+    "stop_lat": "43.598781",
+    "stop_lon": "2.231236",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824790009:LOC",
+    "stop_code": "INDUSTRIE",
+    "stop_name": "INDUSTRIE",
+    "stop_lat": "43.589324",
+    "stop_lon": "2.21415",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834460007:LOC",
+    "stop_code": "GALIB1",
+    "stop_name": "GALIBER",
+    "stop_lat": "43.603279",
+    "stop_lon": "2.237816",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:830780023:LOC",
+    "stop_code": "LE VERDIER",
+    "stop_name": "LE VERDIER",
+    "stop_lat": "43.593204",
+    "stop_lon": "2.216981",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826680008:LOC",
+    "stop_code": "MONTREVEIL",
+    "stop_name": "MONTREVEIL",
+    "stop_lat": "43.592994",
+    "stop_lon": "2.214559",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:858810009:LOC",
+    "stop_code": "MELOU",
+    "stop_name": "MELOU",
+    "stop_lat": "43.592021",
+    "stop_lon": "2.209085",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853070016:LOC",
+    "stop_code": "SAINTE CROIX",
+    "stop_name": "SAINTE CROIX",
+    "stop_lat": "43.590338",
+    "stop_lon": "2.197897",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:810260009:LOC",
+    "stop_code": "MOULET",
+    "stop_name": "MOULET",
+    "stop_lat": "43.590439",
+    "stop_lon": "2.194097",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824780009:LOC",
+    "stop_code": "LE CHATELIER",
+    "stop_name": "LE CHATELIER",
+    "stop_lat": "43.590362",
+    "stop_lon": "2.190106",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834490011:LOC",
+    "stop_code": "MAILLOT/R",
+    "stop_name": "MAILLOT",
+    "stop_lat": "43.600573",
+    "stop_lon": "2.239629",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843700015:LOC",
+    "stop_code": "SAINT ROCH",
+    "stop_name": "SAINT ROCH",
+    "stop_lat": "43.59745",
+    "stop_lon": "2.237883",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843690020:LOC",
+    "stop_code": "LACAZE BASSE",
+    "stop_name": "LACAZE BASSE",
+    "stop_lat": "43.59539",
+    "stop_lon": "2.236721",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843760003:LOC",
+    "stop_code": "MAIL",
+    "stop_name": "MAIL",
+    "stop_lat": "43.602074",
+    "stop_lon": "2.250647",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826710008:LOC",
+    "stop_code": "DROUOT",
+    "stop_name": "DROUOT",
+    "stop_lat": "43.603379",
+    "stop_lon": "2.247346",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828680010:LOC",
+    "stop_code": "AQUITAINE",
+    "stop_name": "AQUITAINE",
+    "stop_lat": "43.61589",
+    "stop_lon": "2.248558",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826690012:LOC",
+    "stop_code": "CASTRES LANGUEDOC",
+    "stop_name": "CASTRES LANGUEDOC",
+    "stop_lat": "43.615497",
+    "stop_lon": "2.245986",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824770010:LOC",
+    "stop_code": "AILLOT",
+    "stop_name": "AILLOT",
+    "stop_lat": "43.614701",
+    "stop_lon": "2.246691",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843740006:LOC",
+    "stop_code": "PUECH",
+    "stop_name": "PUECH",
+    "stop_lat": "43.613262",
+    "stop_lon": "2.248423",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851150009:LOC",
+    "stop_code": "BONAFE/R",
+    "stop_name": "BONAFE",
+    "stop_lat": "43.611511",
+    "stop_lon": "2.247936",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849270017:LOC",
+    "stop_code": "ECOLES BISSEOUS",
+    "stop_name": "ECOLES BISSEOUS",
+    "stop_lat": "43.611019",
+    "stop_lon": "2.250997",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843690021:LOC",
+    "stop_code": "NICOULEAU",
+    "stop_name": "NICOULEAU",
+    "stop_lat": "43.61023",
+    "stop_lon": "2.252606",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843750006:LOC",
+    "stop_code": "BLEUETS",
+    "stop_name": "BLEUETS",
+    "stop_lat": "43.610198",
+    "stop_lon": "2.255994",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851150006:LOC",
+    "stop_code": "JOFFRE",
+    "stop_name": "JOFFRE",
+    "stop_lat": "43.610301",
+    "stop_lon": "2.257552",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843700019:LOC",
+    "stop_code": "CIGALES",
+    "stop_name": "CIGALES",
+    "stop_lat": "43.609806",
+    "stop_lon": "2.260123",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:854950008:LOC",
+    "stop_code": "FILTRES",
+    "stop_name": "FILTRES",
+    "stop_lat": "43.6076",
+    "stop_lon": "2.2567",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828600013:LOC",
+    "stop_code": "LECLERC/R",
+    "stop_name": "LECLERC",
+    "stop_lat": "43.605934",
+    "stop_lon": "2.255834",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853070015:LOC",
+    "stop_code": "LYAUTEY",
+    "stop_name": "LYAUTEY",
+    "stop_lat": "43.603573",
+    "stop_lon": "2.254098",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826700006:LOC",
+    "stop_code": "MERIGONDE/R",
+    "stop_name": "MERIGONDE",
+    "stop_lat": "43.601826",
+    "stop_lon": "2.252533",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826700012:LOC",
+    "stop_code": "ALSACE LORRAINE",
+    "stop_name": "ALSACE LORRAINE",
+    "stop_lat": "43.60218",
+    "stop_lon": "2.240666",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843700018:LOC",
+    "stop_code": "TRIOLET",
+    "stop_name": "TRIOLET",
+    "stop_lat": "43.593921",
+    "stop_lon": "2.236051",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:863070002:LOC",
+    "stop_code": "BARRAL",
+    "stop_name": "BARRAL",
+    "stop_lat": "43.593143",
+    "stop_lon": "2.233218",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843720011:LOC",
+    "stop_code": "LADEN",
+    "stop_name": "LADEN",
+    "stop_lat": "43.594688",
+    "stop_lon": "2.230216",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824790004:LOC",
+    "stop_code": "ARSENAL",
+    "stop_name": "ARSENAL",
+    "stop_lat": "43.595811",
+    "stop_lon": "2.227923",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:839690009:LOC",
+    "stop_code": "CASTRES GUYNEMER",
+    "stop_name": "CASTRES GUYNEMER",
+    "stop_lat": "43.595088",
+    "stop_lon": "2.223841",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831800009:LOC",
+    "stop_code": "INDUSTRIE/R",
+    "stop_name": "INDUSTRIE",
+    "stop_lat": "43.590057",
+    "stop_lon": "2.215325",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834490005:LOC",
+    "stop_code": "LAMEILHE/R",
+    "stop_name": "LAMEILHE",
+    "stop_lat": "43.593955",
+    "stop_lon": "2.243028",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:915460002:LOC",
+    "stop_code": "COLLEGE THOMAS PESQUET",
+    "stop_name": "COLLEGE THOMAS PESQUET",
+    "stop_lat": "43.581273",
+    "stop_lon": "2.260122",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828680005:LOC",
+    "stop_code": "CAPELANIE Arr",
+    "stop_name": "CAPELANIE Arr",
+    "stop_lat": "43.584992",
+    "stop_lon": "2.248179",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:830780018:LOC",
+    "stop_code": "ESTADIEU",
+    "stop_name": "ESTADIEU",
+    "stop_lat": "43.587362",
+    "stop_lon": "2.245318",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826670005:LOC",
+    "stop_code": "MAURIAC",
+    "stop_name": "MAURIAC",
+    "stop_lat": "43.588417",
+    "stop_lon": "2.240906",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:5083332228415488:LOC",
+    "stop_code": "PALIQUE/R",
+    "stop_name": "PALIQUE",
+    "stop_lat": "43.589588",
+    "stop_lon": "2.240965",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843730006:LOC",
+    "stop_code": "MAURIAC/R",
+    "stop_name": "MAURIAC",
+    "stop_lat": "43.588147",
+    "stop_lon": "2.241189",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826660004:LOC",
+    "stop_code": "ESTADIEU/R",
+    "stop_name": "ESTADIEU",
+    "stop_lat": "43.587259",
+    "stop_lon": "2.245346",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:854950006:LOC",
+    "stop_code": "BARBUSSE/R",
+    "stop_name": "BARBUSSE",
+    "stop_lat": "43.583179",
+    "stop_lon": "2.252754",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834470006:LOC",
+    "stop_code": "BERNADOU/R",
+    "stop_name": "BERNADOU",
+    "stop_lat": "43.582862",
+    "stop_lon": "2.254739",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:837880004:LOC",
+    "stop_code": "MILHAUD/R",
+    "stop_name": "MILHAUD",
+    "stop_lat": "43.583183",
+    "stop_lon": "2.256892",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834460005:LOC",
+    "stop_code": "GAUGUIN/R",
+    "stop_name": "GAUGUIN",
+    "stop_lat": "43.59239",
+    "stop_lon": "2.244052",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834500004:LOC",
+    "stop_code": "TOULOUSE LAUTREC/R",
+    "stop_name": "TOULOUSE LAUTREC",
+    "stop_lat": "43.591077",
+    "stop_lon": "2.246574",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:858800005:LOC",
+    "stop_code": "GOYA/R",
+    "stop_name": "GOYA",
+    "stop_lat": "43.59058",
+    "stop_lon": "2.248279",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851140005:LOC",
+    "stop_code": "RENOIR/R",
+    "stop_name": "RENOIR",
+    "stop_lat": "43.58913",
+    "stop_lon": "2.250536",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843690018:LOC",
+    "stop_code": "ZADKINE/R",
+    "stop_name": "ZADKINE",
+    "stop_lat": "43.587497",
+    "stop_lon": "2.250467",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:814590005:LOC",
+    "stop_code": "BLANC/R",
+    "stop_name": "BLANC",
+    "stop_lat": "43.587427",
+    "stop_lon": "2.248686",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856840004:LOC",
+    "stop_code": "TRISTAN/R",
+    "stop_name": "TRISTAN",
+    "stop_lat": "43.58796",
+    "stop_lon": "2.24691",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826690004:LOC",
+    "stop_code": "ALBERT 1ER",
+    "stop_name": "ALBERT 1ER",
+    "stop_lat": "43.602432",
+    "stop_lon": "2.238643",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831800005:LOC",
+    "stop_code": "MAGENTA",
+    "stop_name": "MAGENTA",
+    "stop_lat": "43.600997",
+    "stop_lon": "2.235478",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851130005:LOC",
+    "stop_code": "BORDE BASSE",
+    "stop_name": "BORDE BASSE",
+    "stop_lat": "43.628173",
+    "stop_lon": "2.259171",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826700005:LOC",
+    "stop_code": "TENNIS/R",
+    "stop_name": "TENNIS",
+    "stop_lat": "43.627754",
+    "stop_lon": "2.261869",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853090004:LOC",
+    "stop_code": "PLAN D'EAU/R",
+    "stop_name": "PLAN D'EAU",
+    "stop_lat": "43.625423",
+    "stop_lon": "2.25962",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:810270004:LOC",
+    "stop_code": "ARCHIPEL",
+    "stop_name": "ARCHIPEL",
+    "stop_lat": "43.622528",
+    "stop_lon": "2.259509",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849270014:LOC",
+    "stop_code": "GOURJADE/R",
+    "stop_name": "GOURJADE",
+    "stop_lat": "43.621688",
+    "stop_lon": "2.249717",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834510005:LOC",
+    "stop_code": "ROCHER DE LUNEL/R",
+    "stop_name": "ROCHER DE LUNEL",
+    "stop_lat": "43.619464",
+    "stop_lon": "2.246863",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856850005:LOC",
+    "stop_code": "ROQUECOURBE/R",
+    "stop_name": "ROQUECOURBE",
+    "stop_lat": "43.61402",
+    "stop_lon": "2.244061",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849350005:LOC",
+    "stop_code": "AGOUT/R",
+    "stop_name": "AGOUT",
+    "stop_lat": "43.611665",
+    "stop_lon": "2.244518",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849340005:LOC",
+    "stop_code": "ROUCAYROL/R",
+    "stop_name": "ROUCAYROL",
+    "stop_lat": "43.609785",
+    "stop_lon": "2.24319",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834480005:LOC",
+    "stop_code": "MAHUZIES/R",
+    "stop_name": "MAHUZIES",
+    "stop_lat": "43.608364",
+    "stop_lon": "2.24223",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:854950004:LOC",
+    "stop_code": "PETIT TRAIN/R",
+    "stop_name": "PETIT TRAIN",
+    "stop_lat": "43.597362",
+    "stop_lon": "2.228813",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831810005:LOC",
+    "stop_code": "MJC",
+    "stop_name": "MJC",
+    "stop_lat": "43.59094",
+    "stop_lon": "2.253958",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843750004:LOC",
+    "stop_code": "RECORD",
+    "stop_name": "RECORD",
+    "stop_lat": "43.586467",
+    "stop_lon": "2.244173",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853070010:LOC",
+    "stop_code": "PUJOL",
+    "stop_name": "PUJOL",
+    "stop_lat": "43.586906",
+    "stop_lon": "2.241517",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826710003:LOC",
+    "stop_code": "GARE",
+    "stop_name": "GARE",
+    "stop_lat": "43.599337",
+    "stop_lon": "2.232482",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826680004:LOC",
+    "stop_code": "SIZAIRE",
+    "stop_name": "SIZAIRE",
+    "stop_lat": "43.600729",
+    "stop_lon": "2.235822",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824780004:LOC",
+    "stop_code": "JUIN",
+    "stop_name": "JUIN",
+    "stop_lat": "43.601602",
+    "stop_lon": "2.240013",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853080005:LOC",
+    "stop_code": "BERNADOU",
+    "stop_name": "BERNADOU",
+    "stop_lat": "43.582989",
+    "stop_lon": "2.255627",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851150004:LOC",
+    "stop_code": "BARBUSSE",
+    "stop_name": "BARBUSSE",
+    "stop_lat": "43.58324",
+    "stop_lon": "2.252795",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:814590009:LOC",
+    "stop_code": "LAMEILHE",
+    "stop_name": "LAMEILHE",
+    "stop_lat": "43.594206",
+    "stop_lon": "2.242847",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849270018:LOC",
+    "stop_code": "PLAN D'EAU",
+    "stop_name": "PLAN D'EAU",
+    "stop_lat": "43.625659",
+    "stop_lon": "2.259907",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831810009:LOC",
+    "stop_code": "TENNIS",
+    "stop_name": "TENNIS",
+    "stop_lat": "43.627689",
+    "stop_lon": "2.261958",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849270019:LOC",
+    "stop_code": "TRISTAN",
+    "stop_name": "TRISTAN",
+    "stop_lat": "43.58792",
+    "stop_lon": "2.246976",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834510011:LOC",
+    "stop_code": "BLANC",
+    "stop_name": "BLANC",
+    "stop_lat": "43.587425",
+    "stop_lon": "2.248473",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834460009:LOC",
+    "stop_code": "ZADKINE",
+    "stop_name": "ZADKINE",
+    "stop_lat": "43.587247",
+    "stop_lon": "2.250502",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828680009:LOC",
+    "stop_code": "RENOIR",
+    "stop_name": "RENOIR",
+    "stop_lat": "43.589211",
+    "stop_lon": "2.250528",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849350009:LOC",
+    "stop_code": "GOYA",
+    "stop_name": "GOYA",
+    "stop_lat": "43.590467",
+    "stop_lon": "2.248944",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828690011:LOC",
+    "stop_code": "TOULOUSE LAUTREC",
+    "stop_name": "TOULOUSE LAUTREC",
+    "stop_lat": "43.591046",
+    "stop_lon": "2.246862",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834500008:LOC",
+    "stop_code": "GAUGUIN",
+    "stop_name": "GAUGUIN",
+    "stop_lat": "43.592811",
+    "stop_lon": "2.244134",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834480011:LOC",
+    "stop_code": "PETIT TRAIN",
+    "stop_name": "PETIT TRAIN",
+    "stop_lat": "43.597709",
+    "stop_lon": "2.22958",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856830008:LOC",
+    "stop_code": "MAHUZIES",
+    "stop_name": "MAHUZIES",
+    "stop_lat": "43.608128",
+    "stop_lon": "2.242178",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834490010:LOC",
+    "stop_code": "ROUCAYROL",
+    "stop_name": "ROUCAYROL",
+    "stop_lat": "43.609597",
+    "stop_lon": "2.243142",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826690011:LOC",
+    "stop_code": "AGOUT",
+    "stop_name": "AGOUT",
+    "stop_lat": "43.611789",
+    "stop_lon": "2.244595",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856850011:LOC",
+    "stop_code": "ROQUECOURBE",
+    "stop_name": "ROQUECOURBE",
+    "stop_lat": "43.613879",
+    "stop_lon": "2.244188",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849340010:LOC",
+    "stop_code": "ROCHER DE LUNEL",
+    "stop_name": "ROCHER DE LUNEL",
+    "stop_lat": "43.619677",
+    "stop_lon": "2.247262",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826700011:LOC",
+    "stop_code": "GOURJADE",
+    "stop_name": "GOURJADE",
+    "stop_lat": "43.621658",
+    "stop_lon": "2.250097",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834510013:LOC",
+    "stop_name": "COLLEGE",
+    "stop_lat": "43.581577",
+    "stop_lon": "2.258985",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824790006:LOC",
+    "stop_code": "CAMUS/R",
+    "stop_name": "CAMUS",
+    "stop_lat": "43.593008",
+    "stop_lon": "2.249242",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826660005:LOC",
+    "stop_code": "RAVEL/R",
+    "stop_name": "RAVEL",
+    "stop_lat": "43.589717",
+    "stop_lon": "2.255829",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:836150005:LOC",
+    "stop_name": "VENISE",
+    "stop_lat": "43.600418",
+    "stop_lon": "2.243196",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:845410008:LOC",
+    "stop_code": "SARRAIL",
+    "stop_name": "SARRAIL",
+    "stop_lat": "43.598896",
+    "stop_lon": "2.243218",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856840007:LOC",
+    "stop_code": "CORNEILLE/R",
+    "stop_name": "CORNEILLE",
+    "stop_lat": "43.598121",
+    "stop_lon": "2.244859",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834470008:LOC",
+    "stop_code": "PREVERT/R",
+    "stop_name": "PREVERT",
+    "stop_lat": "43.596431",
+    "stop_lon": "2.246111",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843720013:LOC",
+    "stop_code": "CRABIE/R",
+    "stop_name": "CRABIE",
+    "stop_lat": "43.594429",
+    "stop_lon": "2.247212",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851140009:LOC",
+    "stop_code": "PASCAL/R",
+    "stop_name": "PASCAL",
+    "stop_lat": "43.594142",
+    "stop_lon": "2.251488",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:858800009:LOC",
+    "stop_code": "MERIMEE/R",
+    "stop_name": "MERIMEE",
+    "stop_lat": "43.595199",
+    "stop_lon": "2.253365",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:854940008:LOC",
+    "stop_code": "TOUSSAINT/R",
+    "stop_name": "TOUSSAINT",
+    "stop_lat": "43.593235",
+    "stop_lon": "2.255158",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:837880008:LOC",
+    "stop_code": "PLACE LAMEILHE/R",
+    "stop_name": "PLACE LAMEILHE",
+    "stop_lat": "43.592271",
+    "stop_lon": "2.254695",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824770007:LOC",
+    "stop_code": "BERLIOZ/R",
+    "stop_name": "BERLIOZ",
+    "stop_lat": "43.586879",
+    "stop_lon": "2.257097",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843690023:LOC",
+    "stop_code": "FAURE/R",
+    "stop_name": "FAURE",
+    "stop_lat": "43.586453",
+    "stop_lon": "2.259475",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826670009:LOC",
+    "stop_code": "HONEGGER/R",
+    "stop_name": "HONEGGER",
+    "stop_lat": "43.585197",
+    "stop_lon": "2.258876",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824770009:LOC",
+    "stop_code": "MILHAUD",
+    "stop_name": "MILHAUD",
+    "stop_lat": "43.583583",
+    "stop_lon": "2.257589",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824790008:LOC",
+    "stop_code": "MARTINET/R",
+    "stop_name": "MARTINET",
+    "stop_lat": "43.621103",
+    "stop_lon": "2.265596",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826670008:LOC",
+    "stop_code": "LA PRADE",
+    "stop_name": "LA PRADE",
+    "stop_lat": "43.619578",
+    "stop_lon": "2.269844",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:830780022:LOC",
+    "stop_code": "FONTAINES/R",
+    "stop_name": "FONTAINES",
+    "stop_lat": "43.618059",
+    "stop_lon": "2.269785",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:858810008:LOC",
+    "stop_code": "CANTELOUBE/R",
+    "stop_name": "CANTELOUBE",
+    "stop_lat": "43.61527",
+    "stop_lon": "2.268351",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853080008:LOC",
+    "stop_code": "SAILLENC/R",
+    "stop_name": "SAILLENC",
+    "stop_lat": "43.613256",
+    "stop_lon": "2.267061",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826700010:LOC",
+    "stop_code": "MEULES/R",
+    "stop_name": "MEULES",
+    "stop_lat": "43.610847",
+    "stop_lon": "2.263934",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843760007:LOC",
+    "stop_code": "PARC DES EXPOSITIONS/R",
+    "stop_name": "PARC DES EXPOSITIONS",
+    "stop_lat": "43.609682",
+    "stop_lon": "2.260611",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834490007:LOC",
+    "stop_code": "BOSSUET/R",
+    "stop_name": "BOSSUET",
+    "stop_lat": "43.592769",
+    "stop_lon": "2.251874",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:854940006:LOC",
+    "stop_code": "COUPERIN/R",
+    "stop_name": "COUPERIN",
+    "stop_lat": "43.591488",
+    "stop_lon": "2.254076",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843690019:LOC",
+    "stop_code": "VENISE",
+    "stop_name": "VENISE",
+    "stop_lat": "43.600426",
+    "stop_lon": "2.243599",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:858810005:LOC",
+    "stop_code": "PORCHES",
+    "stop_name": "PORCHES",
+    "stop_lat": "43.601713",
+    "stop_lon": "2.243659",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834510009:LOC",
+    "stop_code": "BERLIOZ",
+    "stop_name": "BERLIOZ",
+    "stop_lat": "43.587278",
+    "stop_lon": "2.256583",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:858810007:LOC",
+    "stop_code": "RAVEL",
+    "stop_name": "RAVEL",
+    "stop_lat": "43.589451",
+    "stop_lon": "2.256055",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826710007:LOC",
+    "stop_code": "CAMUS",
+    "stop_name": "CAMUS",
+    "stop_lat": "43.593066",
+    "stop_lon": "2.249021",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856840006:LOC",
+    "stop_code": "VERDUN",
+    "stop_name": "VERDUN",
+    "stop_lat": "43.582416",
+    "stop_lon": "2.248097",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849340008:LOC",
+    "stop_code": "KERVENOAEL",
+    "stop_name": "KERVENOAEL",
+    "stop_lat": "43.58224",
+    "stop_lon": "2.25121",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843760006:LOC",
+    "stop_code": "LE VAL",
+    "stop_name": "LE VAL",
+    "stop_lat": "43.581494",
+    "stop_lon": "2.252525",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828690009:LOC",
+    "stop_code": "NAYRAL",
+    "stop_name": "NAYRAL",
+    "stop_lat": "43.581284",
+    "stop_lon": "2.254842",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834490008:LOC",
+    "stop_code": "LE NOTRE",
+    "stop_name": "LE NOTRE",
+    "stop_lat": "43.582578",
+    "stop_lon": "2.256418",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:845410007:LOC",
+    "stop_code": "HONEGGER",
+    "stop_name": "HONEGGER",
+    "stop_lat": "43.585094",
+    "stop_lon": "2.258736",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824790007:LOC",
+    "stop_code": "FAURE",
+    "stop_name": "FAURE",
+    "stop_lat": "43.586596",
+    "stop_lon": "2.259529",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:830780021:LOC",
+    "stop_code": "PLACE LAMEILHE",
+    "stop_name": "PLACE LAMEILHE",
+    "stop_lat": "43.591898",
+    "stop_lon": "2.254985",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826690009:LOC",
+    "stop_code": "TOUSSAINT",
+    "stop_name": "TOUSSAINT",
+    "stop_lat": "43.593393",
+    "stop_lon": "2.255193",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834480009:LOC",
+    "stop_code": "MERIMEE",
+    "stop_name": "MERIMEE",
+    "stop_lat": "43.595291",
+    "stop_lon": "2.252892",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834470007:LOC",
+    "stop_code": "PASCAL",
+    "stop_name": "PASCAL",
+    "stop_lat": "43.594066",
+    "stop_lon": "2.251166",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:854940007:LOC",
+    "stop_code": "CRABIE",
+    "stop_name": "CRABIE",
+    "stop_lat": "43.594547",
+    "stop_lon": "2.247231",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856850009:LOC",
+    "stop_code": "PREVERT",
+    "stop_name": "PREVERT",
+    "stop_lat": "43.596563",
+    "stop_lon": "2.246146",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826700009:LOC",
+    "stop_code": "CORNEILLE",
+    "stop_name": "CORNEILLE",
+    "stop_lat": "43.598146",
+    "stop_lon": "2.245272",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853090007:LOC",
+    "stop_code": "PARC DES EXPOSITIONS",
+    "stop_name": "PARC DES EXPOSITIONS",
+    "stop_lat": "43.609493",
+    "stop_lon": "2.260322",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851130008:LOC",
+    "stop_code": "MEULES",
+    "stop_name": "MEULES",
+    "stop_lat": "43.610843",
+    "stop_lon": "2.264108",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:837880007:LOC",
+    "stop_code": "SAILLENC",
+    "stop_name": "SAILLENC",
+    "stop_lat": "43.612465",
+    "stop_lon": "2.26663",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853070014:LOC",
+    "stop_code": "CANTELOUBE",
+    "stop_name": "CANTELOUBE",
+    "stop_lat": "43.61552",
+    "stop_lon": "2.268582",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856830007:LOC",
+    "stop_code": "FONTAINES",
+    "stop_name": "FONTAINES",
+    "stop_lat": "43.618042",
+    "stop_lon": "2.270006",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843720012:LOC",
+    "stop_code": "BRUNIQUEL",
+    "stop_name": "BRUNIQUEL",
+    "stop_lat": "43.620409",
+    "stop_lon": "2.270226",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843730009:LOC",
+    "stop_code": "LA VIXERE",
+    "stop_name": "LA VIXERE",
+    "stop_lat": "43.624114",
+    "stop_lon": "2.271504",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828680008:LOC",
+    "stop_code": "ESPINASSETTE",
+    "stop_name": "ESPINASSETTE",
+    "stop_lat": "43.626694",
+    "stop_lon": "2.272744",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826680007:LOC",
+    "stop_code": "L'INTENDANT",
+    "stop_name": "L'INTENDANT",
+    "stop_lat": "43.628852",
+    "stop_lon": "2.273417",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834500007:LOC",
+    "stop_code": "LES SALVAGES",
+    "stop_name": "LES SALVAGES",
+    "stop_lat": "43.632266",
+    "stop_lon": "2.273848",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843690022:LOC",
+    "stop_code": "ECOLES",
+    "stop_name": "ECOLES",
+    "stop_lat": "43.63264",
+    "stop_lon": "2.27123",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856850010:LOC",
+    "stop_code": "LA PRADE/R",
+    "stop_name": "LA PRADE",
+    "stop_lat": "43.61977",
+    "stop_lon": "2.269726",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834460008:LOC",
+    "stop_code": "MARTINET",
+    "stop_name": "MARTINET",
+    "stop_lat": "43.621191",
+    "stop_lon": "2.265495",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:854950007:LOC",
+    "stop_code": "COUPERIN",
+    "stop_name": "COUPERIN",
+    "stop_lat": "43.591659",
+    "stop_lon": "2.254224",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831800011:LOC",
+    "stop_code": "BOSSUET",
+    "stop_name": "BOSSUET",
+    "stop_lat": "43.592956",
+    "stop_lon": "2.251823",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:860050010:LOC",
+    "stop_code": "CIMETIERE LA BARQUE",
+    "stop_name": "CIMETIERE LA BARQUE",
+    "stop_lat": "43.630672",
+    "stop_lon": "2.269374",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831960003:LOC",
+    "stop_code": "MAILLOT",
+    "stop_name": "MAILLOT",
+    "stop_lat": "43.599689",
+    "stop_lon": "2.239329",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831810007:LOC",
+    "stop_code": "DAUDET/R",
+    "stop_name": "DAUDET",
+    "stop_lat": "43.593013",
+    "stop_lon": "2.24464",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849340007:LOC",
+    "stop_code": "COURTELINE/R",
+    "stop_name": "COURTELINE",
+    "stop_lat": "43.592411",
+    "stop_lon": "2.246853",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843750010:LOC",
+    "stop_name": "BERLIOZ",
+    "stop_lat": "43.586769",
+    "stop_lon": "2.256541",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:858810006:LOC",
+    "stop_code": "MITTERAND",
+    "stop_name": "MITTERAND",
+    "stop_lat": "43.583713",
+    "stop_lon": "2.256801",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843740008:LOC",
+    "stop_code": "COURTELINE",
+    "stop_name": "COURTELINE",
+    "stop_lat": "43.592609",
+    "stop_lon": "2.247366",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851150008:LOC",
+    "stop_code": "DAUDET",
+    "stop_name": "DAUDET",
+    "stop_lat": "43.592967",
+    "stop_lon": "2.245089",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824770004:LOC",
+    "stop_code": "PLACE PIERRE FABRE",
+    "stop_name": "PLACE PIERRE FABRE",
+    "stop_lat": "43.608699",
+    "stop_lon": "2.23841",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834500006:LOC",
+    "stop_code": "BLUM",
+    "stop_name": "BLUM",
+    "stop_lat": "43.612026",
+    "stop_lon": "2.235146",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826670007:LOC",
+    "stop_code": "LAUTREC",
+    "stop_name": "LAUTREC",
+    "stop_lat": "43.613279",
+    "stop_lon": "2.233582",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828680007:LOC",
+    "stop_code": "MACHET",
+    "stop_name": "MACHET",
+    "stop_lat": "43.616462",
+    "stop_lon": "2.235742",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:810260004:LOC",
+    "stop_code": "SERCLOISE",
+    "stop_name": "SERCLOISE",
+    "stop_lat": "43.618175",
+    "stop_lon": "2.233962",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856830004:LOC",
+    "stop_code": "PAULIN",
+    "stop_name": "PAULIN",
+    "stop_lat": "43.618888",
+    "stop_lon": "2.232227",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:845410004:LOC",
+    "stop_code": "TIREFORT",
+    "stop_name": "TIREFORT",
+    "stop_lat": "43.617643",
+    "stop_lon": "2.231509",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831800006:LOC",
+    "stop_code": "BARBAZA",
+    "stop_name": "BARBAZA",
+    "stop_lat": "43.616194",
+    "stop_lon": "2.231882",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856830010:LOC",
+    "stop_code": "LAUTREC/R",
+    "stop_name": "LAUTREC",
+    "stop_lat": "43.613674",
+    "stop_lon": "2.232993",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:810260011:LOC",
+    "stop_code": "BLUM/R",
+    "stop_name": "BLUM",
+    "stop_lat": "43.61193",
+    "stop_lon": "2.235137",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834480014:LOC",
+    "stop_code": "SICARDENS/R",
+    "stop_name": "SICARDENS",
+    "stop_lat": "43.614944",
+    "stop_lon": "2.231552",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824770005:LOC",
+    "stop_code": "CHEMIN DU CAUSSE",
+    "stop_name": "CHEMIN DU CAUSSE",
+    "stop_lat": "43.616059",
+    "stop_lon": "2.230148",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:832390008:LOC",
+    "stop_name": "Provisoire 1 - L5",
+    "stop_lat": "43.620841",
+    "stop_lon": "2.224241",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:863780001:LOC",
+    "stop_name": "Provisoire 2 - L5",
+    "stop_lat": "43.621887",
+    "stop_lon": "2.221624",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:5193191317831680:LOC",
+    "stop_code": "PLOMBIERES Arr",
+    "stop_name": "PLOMBIERES Dep",
+    "stop_lat": "43.622463",
+    "stop_lon": "2.214886",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:860040013:LOC",
+    "stop_name": "Provisoire 1 - L5",
+    "stop_lat": "43.620826",
+    "stop_lon": "2.224099",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:836680001:LOC",
+    "stop_name": "Provisoire 3 - L5",
+    "stop_lat": "43.618278",
+    "stop_lon": "2.227307",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831810013:LOC",
+    "stop_code": "CHEMIN DU CAUSSE/R",
+    "stop_name": "CHEMIN DU CAUSSE",
+    "stop_lat": "43.616059",
+    "stop_lon": "2.230048",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:839690004:LOC",
+    "stop_code": "SICARDENS",
+    "stop_name": "SICARDENS",
+    "stop_lat": "43.614906",
+    "stop_lon": "2.231464",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853070013:LOC",
+    "stop_code": "WAUTHIER",
+    "stop_name": "WAUTHIER",
+    "stop_lat": "43.609851",
+    "stop_lon": "2.248354",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831810008:LOC",
+    "stop_code": "GRILLONS",
+    "stop_name": "GRILLONS",
+    "stop_lat": "43.610721",
+    "stop_lon": "2.259339",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853080007:LOC",
+    "stop_code": "MISTRAL",
+    "stop_name": "MISTRAL",
+    "stop_lat": "43.612052",
+    "stop_lon": "2.261338",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:861800002:LOC",
+    "stop_code": "AUDENET",
+    "stop_name": "AUDENET",
+    "stop_lat": "43.612094",
+    "stop_lon": "2.258103",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:810260007:LOC",
+    "stop_code": "BRETAGNE",
+    "stop_name": "BRETAGNE",
+    "stop_lat": "43.613715",
+    "stop_lon": "2.255125",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:839690007:LOC",
+    "stop_code": "SAVOIE",
+    "stop_name": "SAVOIE",
+    "stop_lat": "43.613899",
+    "stop_lon": "2.252595",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:814590007:LOC",
+    "stop_code": "PYRENEES",
+    "stop_name": "PYRENEES",
+    "stop_lat": "43.614765",
+    "stop_lon": "2.249875",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828600012:LOC",
+    "stop_code": "WAUTHIER/R",
+    "stop_name": "WAUTHIER",
+    "stop_lat": "43.610179",
+    "stop_lon": "2.246564",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831800010:LOC",
+    "stop_code": "CALVAIRE",
+    "stop_name": "CALVAIRE",
+    "stop_lat": "43.607597",
+    "stop_lon": "2.245265",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826710009:LOC",
+    "stop_code": "LAVAUR",
+    "stop_name": "LAVAUR",
+    "stop_lat": "43.607414",
+    "stop_lon": "2.235351",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831800014:LOC",
+    "stop_code": "THOMAS",
+    "stop_name": "THOMAS",
+    "stop_lat": "43.608493",
+    "stop_lon": "2.231933",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851140010:LOC",
+    "stop_code": "GAZEL",
+    "stop_name": "GAZEL",
+    "stop_lat": "43.609367",
+    "stop_lon": "2.229175",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834510012:LOC",
+    "stop_code": "BEAUMONT",
+    "stop_name": "BEAUMONT",
+    "stop_lat": "43.609218",
+    "stop_lon": "2.227837",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:858800010:LOC",
+    "stop_code": "MONGES",
+    "stop_name": "MONGES",
+    "stop_lat": "43.606685",
+    "stop_lon": "2.230692",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831810011:LOC",
+    "stop_code": "MATTEOTI",
+    "stop_name": "MATTEOTI",
+    "stop_lat": "43.605204",
+    "stop_lon": "2.229404",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826670010:LOC",
+    "stop_code": "BOUZIGUES",
+    "stop_name": "BOUZIGUES",
+    "stop_lat": "43.603977",
+    "stop_lon": "2.228249",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849270020:LOC",
+    "stop_code": "SEVERAC",
+    "stop_name": "SEVERAC",
+    "stop_lat": "43.602149",
+    "stop_lon": "2.226267",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826660007:LOC",
+    "stop_code": "MAURELS",
+    "stop_name": "MAURELS",
+    "stop_lat": "43.600894",
+    "stop_lon": "2.224281",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843720014:LOC",
+    "stop_code": "CORPORAL Dep",
+    "stop_name": "CORPORAL Dep",
+    "stop_lat": "43.599959",
+    "stop_lon": "2.219629",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824790011:LOC",
+    "stop_code": "MAURELS/R",
+    "stop_name": "MAURELS",
+    "stop_lat": "43.601116",
+    "stop_lon": "2.224991",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824770011:LOC",
+    "stop_code": "SIRVEN",
+    "stop_name": "SIRVEN",
+    "stop_lat": "43.601142",
+    "stop_lon": "2.227995",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:814590011:LOC",
+    "stop_code": "VIVIANI",
+    "stop_name": "VIVIANI",
+    "stop_lat": "43.602737",
+    "stop_lon": "2.232198",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851150010:LOC",
+    "stop_code": "REY",
+    "stop_name": "REY",
+    "stop_lat": "43.603172",
+    "stop_lon": "2.233984",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:858810011:LOC",
+    "stop_code": "MIRABEAU",
+    "stop_name": "MIRABEAU",
+    "stop_lat": "43.604103",
+    "stop_lon": "2.235638",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843690025:LOC",
+    "stop_code": "CORBIERE",
+    "stop_name": "CORBIERE",
+    "stop_lat": "43.605672",
+    "stop_lon": "2.233305",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834510014:LOC",
+    "stop_code": "BOURGEOIS",
+    "stop_name": "BOURGEOIS",
+    "stop_lat": "43.606788",
+    "stop_lon": "2.233461",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:838200001:LOC",
+    "stop_name": "MERIGONDE",
+    "stop_lat": "43.600959",
+    "stop_lon": "2.253196",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834460006:LOC",
+    "stop_code": "ECOLES DE ROULANDOU",
+    "stop_name": "ECOLES DE ROULANDOU",
+    "stop_lat": "43.601158",
+    "stop_lon": "2.260635",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:858800007:LOC",
+    "stop_code": "GIRAUD/R",
+    "stop_name": "GIRAUD",
+    "stop_lat": "43.60337",
+    "stop_lon": "2.260249",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826690008:LOC",
+    "stop_code": "LARDAILLE/R",
+    "stop_name": "LARDAILLE",
+    "stop_lat": "43.605503",
+    "stop_lon": "2.261086",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851140007:LOC",
+    "stop_code": "DE LATTRE/R",
+    "stop_name": "DE LATTRE",
+    "stop_lat": "43.606662",
+    "stop_lon": "2.259094",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834480008:LOC",
+    "stop_code": "MONNET/R",
+    "stop_name": "MONNET",
+    "stop_lat": "43.60806",
+    "stop_lon": "2.255025",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826700008:LOC",
+    "stop_code": "BIBLIOTHEQUE/R",
+    "stop_name": "BIBLIOTHEQUE",
+    "stop_lat": "43.607368",
+    "stop_lon": "2.252106",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856850008:LOC",
+    "stop_code": "PERAUDEL",
+    "stop_name": "PERAUDEL",
+    "stop_lat": "43.607715",
+    "stop_lon": "2.249552",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851130011:LOC",
+    "stop_code": "BARTHE",
+    "stop_name": "BARTHE",
+    "stop_lat": "43.602208",
+    "stop_lon": "2.258858",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853080009:LOC",
+    "stop_code": "MONTAUD",
+    "stop_name": "MONTAUD",
+    "stop_lat": "43.601581",
+    "stop_lon": "2.262058",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843750008:LOC",
+    "stop_code": "PAUVRES",
+    "stop_name": "PAUVRES",
+    "stop_lat": "43.59869",
+    "stop_lon": "2.219076",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826660008:LOC",
+    "stop_code": "ROND POINT MELOU",
+    "stop_name": "ROND POINT MELOU",
+    "stop_lat": "43.593574",
+    "stop_lon": "2.2183",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:854950009:LOC",
+    "stop_code": "PAUVRES/R",
+    "stop_name": "PAUVRES",
+    "stop_lat": "43.598804",
+    "stop_lon": "2.219381",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:845410005:LOC",
+    "stop_code": "PIOCH DE GAIX",
+    "stop_name": "PIOCH DE GAIX",
+    "stop_lat": "43.58831",
+    "stop_lon": "2.270518",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826710006:LOC",
+    "stop_code": "LE SIALA dep/R",
+    "stop_name": "LE SIALA",
+    "stop_lat": "43.59196",
+    "stop_lon": "2.267278",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843730007:LOC",
+    "stop_code": "GABARROU",
+    "stop_name": "GABARROU",
+    "stop_lat": "43.576087",
+    "stop_lon": "2.271325",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828680006:LOC",
+    "stop_code": "CHAYNES",
+    "stop_name": "CHAYNES",
+    "stop_lat": "43.574352",
+    "stop_lon": "2.278786",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834510007:LOC",
+    "stop_code": "COMMERCES",
+    "stop_name": "COMMERCES",
+    "stop_lat": "43.580192",
+    "stop_lon": "2.276889",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:837880005:LOC",
+    "stop_code": "BREL",
+    "stop_name": "BREL",
+    "stop_lat": "43.575641",
+    "stop_lon": "2.283422",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826700007:LOC",
+    "stop_code": "RAUCOULES",
+    "stop_name": "RAUCOULES",
+    "stop_lat": "43.56908",
+    "stop_lon": "2.305511",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843750005:LOC",
+    "stop_code": "AUTAN",
+    "stop_name": "AUTAN",
+    "stop_lat": "43.568176",
+    "stop_lon": "2.310107",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849270021:LOC",
+    "stop_code": "RAUCOULES/R",
+    "stop_name": "RAUCOULES",
+    "stop_lat": "43.569175",
+    "stop_lon": "2.306483",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:837880010:LOC",
+    "stop_code": "BREL/R",
+    "stop_name": "BREL",
+    "stop_lat": "43.575729",
+    "stop_lon": "2.283579",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831810012:LOC",
+    "stop_code": "COMMERCES/R",
+    "stop_name": "COMMERCES",
+    "stop_lat": "43.580285",
+    "stop_lon": "2.276957",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851140011:LOC",
+    "stop_code": "CHAYNES/R",
+    "stop_name": "CHAYNES",
+    "stop_lat": "43.574508",
+    "stop_lon": "2.278686",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826680009:LOC",
+    "stop_code": "GENETS/R",
+    "stop_name": "GENETS",
+    "stop_lat": "43.577911",
+    "stop_lon": "2.268417",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851130007:LOC",
+    "stop_code": "PENCHENERY/R",
+    "stop_name": "PENCHENERY",
+    "stop_lat": "43.59607",
+    "stop_lon": "2.264904",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:830780020:LOC",
+    "stop_code": "PESQUIES/R",
+    "stop_name": "PESQUIES",
+    "stop_lat": "43.598166",
+    "stop_lon": "2.266514",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853090006:LOC",
+    "stop_code": "BAGATELLE/R",
+    "stop_name": "BAGATELLE",
+    "stop_lat": "43.598899",
+    "stop_lon": "2.264558",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826680006:LOC",
+    "stop_code": "SAINT HIPPOLYTE/R",
+    "stop_name": "SAINT HIPPOLYTE",
+    "stop_lat": "43.600032",
+    "stop_lon": "2.262138",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834510008:LOC",
+    "stop_code": "ECOLES DE ROULANDOU/R",
+    "stop_name": "ECOLES DE ROULANDOU",
+    "stop_lat": "43.601724",
+    "stop_lon": "2.259888",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843720008:LOC",
+    "stop_code": "LE SIALA",
+    "stop_name": "LE SIALA",
+    "stop_lat": "43.592979",
+    "stop_lon": "2.266209",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:871070014:LOC",
+    "stop_name": "PIOCH DE GAIX",
+    "stop_lat": "43.588142",
+    "stop_lon": "2.270482",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853070011:LOC",
+    "stop_code": "DESPLATS",
+    "stop_name": "DESPLATS",
+    "stop_lat": "43.605717",
+    "stop_lon": "2.245515",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826710005:LOC",
+    "stop_code": "BIBLIOTHEQUE",
+    "stop_name": "BIBLIOTHEQUE",
+    "stop_lat": "43.607348",
+    "stop_lon": "2.252427",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:858800006:LOC",
+    "stop_code": "MONNET",
+    "stop_name": "MONNET",
+    "stop_lat": "43.60817",
+    "stop_lon": "2.255939",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:830780019:LOC",
+    "stop_code": "DE LATTRE",
+    "stop_name": "DE LATTRE",
+    "stop_lat": "43.606654",
+    "stop_lon": "2.258973",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843740005:LOC",
+    "stop_code": "LARDAILLE",
+    "stop_name": "LARDAILLE",
+    "stop_lat": "43.605587",
+    "stop_lon": "2.260823",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851140006:LOC",
+    "stop_code": "GIRAUD",
+    "stop_name": "GIRAUD",
+    "stop_lat": "43.603267",
+    "stop_lon": "2.260057",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828690007:LOC",
+    "stop_code": "SAINT HIPPOLYTE",
+    "stop_name": "SAINT HIPPOLYTE",
+    "stop_lat": "43.599885",
+    "stop_lon": "2.262271",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834500005:LOC",
+    "stop_code": "BAGATELLE",
+    "stop_name": "BAGATELLE",
+    "stop_lat": "43.598789",
+    "stop_lon": "2.264706",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:814590006:LOC",
+    "stop_code": "PESQUIES",
+    "stop_name": "PESQUIES",
+    "stop_lat": "43.598086",
+    "stop_lon": "2.266593",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826690007:LOC",
+    "stop_code": "PENCHENERY",
+    "stop_name": "PENCHENERY",
+    "stop_lat": "43.596287",
+    "stop_lon": "2.265099",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826670006:LOC",
+    "stop_code": "GENETS",
+    "stop_name": "GENETS",
+    "stop_lat": "43.577781",
+    "stop_lon": "2.268558",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843740007:LOC",
+    "stop_code": "GARES MAZAMET Dep/R",
+    "stop_name": "GARES MAZAMET",
+    "stop_lat": "43.498172",
+    "stop_lon": "2.37397",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:810270005:LOC",
+    "stop_code": "LE VACANT",
+    "stop_name": "LE VACANT",
+    "stop_lat": "43.511688",
+    "stop_lon": "2.37725",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849340006:LOC",
+    "stop_code": "LACOMBE",
+    "stop_name": "LACOMBE",
+    "stop_lat": "43.510051",
+    "stop_lon": "2.380538",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843720010:LOC",
+    "stop_code": "FOCH",
+    "stop_name": "FOCH",
+    "stop_lat": "43.503187",
+    "stop_lon": "2.377564",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:854950010:LOC",
+    "stop_code": "LES BAUSSES/R",
+    "stop_name": "LES BAUSSES",
+    "stop_lat": "43.500972",
+    "stop_lon": "2.376817",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853090005:LOC",
+    "stop_code": "AUSTRALIE",
+    "stop_name": "AUSTRALIE",
+    "stop_lat": "43.498474",
+    "stop_lon": "2.376001",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849350008:LOC",
+    "stop_code": "LA POSTE",
+    "stop_name": "LA POSTE",
+    "stop_lat": "43.494197",
+    "stop_lon": "2.374589",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:869670012:LOC",
+    "stop_code": "BARBEY",
+    "stop_name": "BARBEY",
+    "stop_lat": "43.491577",
+    "stop_lon": "2.374803",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:839690011:LOC",
+    "stop_code": "APOLLO",
+    "stop_name": "APOLLO",
+    "stop_lat": "43.493508",
+    "stop_lon": "2.375481",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826690005:LOC",
+    "stop_code": "LA POSTE/R",
+    "stop_name": "LA POSTE",
+    "stop_lat": "43.494373",
+    "stop_lon": "2.374728",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:844120004:LOC",
+    "stop_name": "MAIRIE PONT DE LARN",
+    "stop_lat": "43.50402",
+    "stop_lon": "2.403855",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:841840004:LOC",
+    "stop_name": "CROIX ROUGE",
+    "stop_lat": "43.506889",
+    "stop_lon": "2.396816",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:836140005:LOC",
+    "stop_name": "LEMINADE",
+    "stop_lat": "43.496658",
+    "stop_lon": "2.382004",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843750009:LOC",
+    "stop_code": "AUSTRALIE/R",
+    "stop_name": "AUSTRALIE",
+    "stop_lat": "43.498362",
+    "stop_lon": "2.376043",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834470005:LOC",
+    "stop_code": "LES BAUSSES",
+    "stop_name": "LES BAUSSES",
+    "stop_lat": "43.500328",
+    "stop_lon": "2.376693",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:858810010:LOC",
+    "stop_code": "COLBERT",
+    "stop_name": "COLBERT",
+    "stop_lat": "43.507458",
+    "stop_lon": "2.380566",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:839690010:LOC",
+    "stop_code": "BONNECOMBE",
+    "stop_name": "BONNECOMBE",
+    "stop_lat": "43.505593",
+    "stop_lon": "2.382323",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:810260010:LOC",
+    "stop_code": "BELLERIVE",
+    "stop_name": "BELLERIVE",
+    "stop_lat": "43.501644",
+    "stop_lon": "2.383225",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:5100859889287168:LOC",
+    "stop_code": "MOLIERE",
+    "stop_name": "MOLIERE",
+    "stop_lat": "43.499807",
+    "stop_lon": "2.385091",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:852040012:LOC",
+    "stop_code": "LA MOLIERE BASSE",
+    "stop_name": "LA MOLIERE BASSE",
+    "stop_lat": "43.500537",
+    "stop_lon": "2.38556",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:855780011:LOC",
+    "stop_name": "LA MOLIERE",
+    "stop_lat": "43.499904",
+    "stop_lon": "2.385168",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843690024:LOC",
+    "stop_code": "MAZAMET JUIN",
+    "stop_name": "MAZAMET JUIN",
+    "stop_lat": "43.502356",
+    "stop_lon": "2.381167",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:832380010:LOC",
+    "stop_code": "FERRET",
+    "stop_name": "FERRET",
+    "stop_lat": "43.490978",
+    "stop_lon": "2.376217",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843730010:LOC",
+    "stop_code": "MEYER",
+    "stop_name": "MEYER",
+    "stop_lat": "43.4916",
+    "stop_lon": "2.378188",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853090008:LOC",
+    "stop_code": "LA FINARIE",
+    "stop_name": "LA FINARIE",
+    "stop_lat": "43.494264",
+    "stop_lon": "2.379306",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831810010:LOC",
+    "stop_code": "LEMINADE",
+    "stop_name": "LEMINADE",
+    "stop_lat": "43.496094",
+    "stop_lon": "2.381419",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831800013:LOC",
+    "stop_code": "LA CHEVALIERE",
+    "stop_name": "LA CHEVALIERE",
+    "stop_lat": "43.49673",
+    "stop_lon": "2.385004",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:810270008:LOC",
+    "stop_code": "PISCINE",
+    "stop_name": "PISCINE",
+    "stop_lat": "43.496183",
+    "stop_lon": "2.389243",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828600010:LOC",
+    "stop_code": "LA RICHARDE",
+    "stop_name": "LA RICHARDE",
+    "stop_lat": "43.497127",
+    "stop_lon": "2.394782",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824790005:LOC",
+    "stop_code": "AMPERE",
+    "stop_name": "AMPERE",
+    "stop_lat": "43.49532",
+    "stop_lon": "2.394625",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828680011:LOC",
+    "stop_code": "KENNEDY",
+    "stop_name": "KENNEDY",
+    "stop_lat": "43.493618",
+    "stop_lon": "2.394222",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853070009:LOC",
+    "stop_code": "LAVANDE",
+    "stop_name": "LAVANDE",
+    "stop_lat": "43.493301",
+    "stop_lon": "2.39678",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:845410003:LOC",
+    "stop_code": "MAZAMET AUTAN",
+    "stop_name": "MAZAMET AUTAN",
+    "stop_lat": "43.494744",
+    "stop_lon": "2.397949",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826690006:LOC",
+    "stop_code": "MAZAMET MONTAUD/R",
+    "stop_name": "MAZAMET MONTAUD",
+    "stop_lat": "43.492908",
+    "stop_lon": "2.399736",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834490006:LOC",
+    "stop_code": "NORE",
+    "stop_name": "NORE",
+    "stop_lat": "43.490422",
+    "stop_lon": "2.400038",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831800008:LOC",
+    "stop_code": "MANOTTE",
+    "stop_name": "MANOTTE",
+    "stop_lat": "43.490806",
+    "stop_lon": "2.4054",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849270022:LOC",
+    "stop_code": "LA FARGUE",
+    "stop_name": "LA FARGUE",
+    "stop_lat": "43.489479",
+    "stop_lon": "2.401572",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843740003:LOC",
+    "stop_code": "NEGRIN",
+    "stop_name": "NEGRIN",
+    "stop_lat": "43.49068",
+    "stop_lon": "2.395673",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853070008:LOC",
+    "stop_code": "SANTA MARIA",
+    "stop_name": "SANTA MARIA",
+    "stop_lat": "43.491714",
+    "stop_lon": "2.392741",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834500009:LOC",
+    "stop_code": "LA LAUZE",
+    "stop_name": "LA LAUZE",
+    "stop_lat": "43.493855",
+    "stop_lon": "2.390875",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828690008:LOC",
+    "stop_code": "JAURES",
+    "stop_name": "JAURES",
+    "stop_lat": "43.49353",
+    "stop_lon": "2.387999",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:810270006:LOC",
+    "stop_code": "PAILHE",
+    "stop_name": "PAILHE",
+    "stop_lat": "43.492841",
+    "stop_lon": "2.384901",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856830006:LOC",
+    "stop_code": "LA VITARELLE",
+    "stop_name": "LA VITARELLE",
+    "stop_lat": "43.49228",
+    "stop_lon": "2.382932",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843750007:LOC",
+    "stop_code": "CHAMP DE LA VILLE",
+    "stop_name": "CHAMP DE LA VILLE",
+    "stop_lat": "43.491021",
+    "stop_lon": "2.380686",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:857160009:LOC",
+    "stop_name": "CROIX ROUGE",
+    "stop_lat": "43.506774",
+    "stop_lon": "2.396506",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853090010:LOC",
+    "stop_code": "SABATIE/R",
+    "stop_name": "SABATIE",
+    "stop_lat": "43.499945",
+    "stop_lon": "2.370176",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843730011:LOC",
+    "stop_code": "AUSSILLON LANGUEDOC",
+    "stop_name": "AUSSILLON LANGUEDOC",
+    "stop_lat": "43.507625",
+    "stop_lon": "2.371836",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849350010:LOC",
+    "stop_code": "THORE/R",
+    "stop_name": "THORE",
+    "stop_lat": "43.507427",
+    "stop_lon": "2.376395",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824790003:LOC",
+    "stop_code": "MOULIN",
+    "stop_name": "MOULIN",
+    "stop_lat": "43.507621",
+    "stop_lon": "2.363868",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843730012:LOC",
+    "stop_code": "VOLTAIRE/R",
+    "stop_name": "VOLTAIRE",
+    "stop_lat": "43.502792",
+    "stop_lon": "2.369775",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834490012:LOC",
+    "stop_code": "SAINT JOHN PERSE/R",
+    "stop_name": "SAINT JOHN PERSE",
+    "stop_lat": "43.505268",
+    "stop_lon": "2.367019",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831800016:LOC",
+    "stop_code": "MARCHE/R",
+    "stop_name": "MARCHE",
+    "stop_lat": "43.506767",
+    "stop_lon": "2.366906",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853090009:LOC",
+    "stop_code": "FERRY",
+    "stop_name": "FERRY",
+    "stop_lat": "43.508769",
+    "stop_lon": "2.364877",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828690012:LOC",
+    "stop_code": "BALZAC",
+    "stop_name": "BALZAC",
+    "stop_lat": "43.509452",
+    "stop_lon": "2.36729",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826700013:LOC",
+    "stop_code": "THORE",
+    "stop_name": "THORE",
+    "stop_lat": "43.507518",
+    "stop_lon": "2.376329",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843700020:LOC",
+    "stop_code": "AUSSILLON LANGUEDOC/R",
+    "stop_name": "AUSSILLON LANGUEDOC",
+    "stop_lat": "43.507099",
+    "stop_lon": "2.370801",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856840008:LOC",
+    "stop_code": "MARCHE",
+    "stop_name": "MARCHE",
+    "stop_lat": "43.506698",
+    "stop_lon": "2.366842",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:854940009:LOC",
+    "stop_code": "SAINT JOHN PERSE",
+    "stop_name": "SAINT JOHN PERSE",
+    "stop_lat": "43.505187",
+    "stop_lon": "2.366978",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834480012:LOC",
+    "stop_code": "VOLTAIRE",
+    "stop_name": "VOLTAIRE",
+    "stop_lat": "43.502746",
+    "stop_lon": "2.369894",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:845410009:LOC",
+    "stop_code": "SABATIE",
+    "stop_name": "SABATIE",
+    "stop_lat": "43.4999",
+    "stop_lon": "2.370044",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834460004:LOC",
+    "stop_code": "MEDIATHEQUE",
+    "stop_name": "MEDIATHEQUE",
+    "stop_lat": "43.503688",
+    "stop_lon": "2.362869",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834510010:LOC",
+    "stop_code": "REILLE",
+    "stop_name": "REILLE",
+    "stop_lat": "43.490093",
+    "stop_lon": "2.375246",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851150007:LOC",
+    "stop_code": "JEANNE D'ARC",
+    "stop_name": "JEANNE D'ARC",
+    "stop_lat": "43.486705",
+    "stop_lon": "2.373509",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831800012:LOC",
+    "stop_code": "VANNE",
+    "stop_name": "VANNE",
+    "stop_lat": "43.484764",
+    "stop_lon": "2.373766",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834490009:LOC",
+    "stop_code": "BOUTONNET",
+    "stop_name": "BOUTONNET",
+    "stop_lat": "43.483413",
+    "stop_lon": "2.374311",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849340009:LOC",
+    "stop_code": "LA RESSE",
+    "stop_name": "LA RESSE",
+    "stop_lat": "43.485923",
+    "stop_lon": "2.372965",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:839690008:LOC",
+    "stop_code": "MAZAMET GUYNEMER",
+    "stop_name": "MAZAMET GUYNEMER",
+    "stop_lat": "43.486564",
+    "stop_lon": "2.371251",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:810260008:LOC",
+    "stop_code": "CENTENAIRE",
+    "stop_name": "CENTENAIRE",
+    "stop_lat": "43.4902",
+    "stop_lon": "2.365783",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834480010:LOC",
+    "stop_code": "CHAMBORD",
+    "stop_name": "CHAMBORD",
+    "stop_lat": "43.490314",
+    "stop_lon": "2.359249",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826690010:LOC",
+    "stop_code": "VILLAGE",
+    "stop_name": "VILLAGE",
+    "stop_lat": "43.488873",
+    "stop_lon": "2.355628",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853070018:LOC",
+    "stop_code": "POURSINES",
+    "stop_name": "POURSINES",
+    "stop_lat": "43.489521",
+    "stop_lon": "2.354726",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:854940010:LOC",
+    "stop_code": "CIMETIERE",
+    "stop_name": "CIMETIERE",
+    "stop_lat": "43.491813",
+    "stop_lon": "2.356571",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849340012:LOC",
+    "stop_code": "POUSSIN",
+    "stop_name": "POUSSIN",
+    "stop_lat": "43.495563",
+    "stop_lon": "2.359044",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834460011:LOC",
+    "stop_code": "LES JASMINS",
+    "stop_name": "LES JASMINS",
+    "stop_lat": "43.497489",
+    "stop_lon": "2.360005",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:810270010:LOC",
+    "stop_code": "FROMENT",
+    "stop_name": "FROMENT",
+    "stop_lat": "43.499267",
+    "stop_lon": "2.360858",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843720016:LOC",
+    "stop_code": "LA MAYLARIE",
+    "stop_name": "LA MAYLARIE",
+    "stop_lat": "43.501525",
+    "stop_lon": "2.362041",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:830780025:LOC",
+    "stop_code": "BONNECOUSSE",
+    "stop_name": "BONNECOUSSE",
+    "stop_lat": "43.500373",
+    "stop_lon": "2.366192",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834500010:LOC",
+    "stop_code": "ROOSEVELT",
+    "stop_name": "ROOSEVELT",
+    "stop_lat": "43.498845",
+    "stop_lon": "2.364674",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:845410010:LOC",
+    "stop_code": "BLERIOT",
+    "stop_name": "BLERIOT",
+    "stop_lat": "43.497943",
+    "stop_lon": "2.363985",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856840009:LOC",
+    "stop_code": "MAIRIE",
+    "stop_name": "MAIRIE",
+    "stop_lat": "43.495826",
+    "stop_lon": "2.364327",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824780011:LOC",
+    "stop_code": "LAGRANGE",
+    "stop_name": "LAGRANGE",
+    "stop_lat": "43.493564",
+    "stop_lon": "2.363301",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:854950011:LOC",
+    "stop_code": "CANECRABE",
+    "stop_name": "CANECRABE",
+    "stop_lat": "43.492336",
+    "stop_lon": "2.364323",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826710011:LOC",
+    "stop_code": "GCHE",
+    "stop_name": "GACHES",
+    "stop_lat": "43.492355",
+    "stop_lon": "2.367692",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:837880011:LOC",
+    "stop_code": "METZ",
+    "stop_name": "METZ",
+    "stop_lat": "43.49184",
+    "stop_lon": "2.370271",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843740010:LOC",
+    "stop_code": "PERIE",
+    "stop_name": "PERIE",
+    "stop_lat": "43.491744",
+    "stop_lon": "2.372358",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:844070008:LOC",
+    "stop_name": "MOULIN",
+    "stop_lat": "43.506477",
+    "stop_lon": "2.364368",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834460010:LOC",
+    "stop_code": "LES AUQUES",
+    "stop_name": "LES AUQUES",
+    "stop_lat": "43.504561",
+    "stop_lon": "2.371756",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834480013:LOC",
+    "stop_code": "RIGAUTOU/R",
+    "stop_name": "RIGAUTOU",
+    "stop_lat": "43.519986",
+    "stop_lon": "2.36919",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828690006:LOC",
+    "stop_code": "EMPRADES/R",
+    "stop_name": "EMPRADES",
+    "stop_lat": "43.521035",
+    "stop_lon": "2.366482",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856850013:LOC",
+    "stop_code": "LA FREGERE/R",
+    "stop_name": "LA FREGERE",
+    "stop_lat": "43.519149",
+    "stop_lon": "2.359543",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:810270009:LOC",
+    "stop_code": "LA NAURE/R",
+    "stop_name": "LA NAURE",
+    "stop_lat": "43.520248",
+    "stop_lon": "2.351419",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826710010:LOC",
+    "stop_code": "LA TREMOULEDE/R",
+    "stop_name": "LA TREMOULEDE",
+    "stop_lat": "43.519653",
+    "stop_lon": "2.344482",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834470010:LOC",
+    "stop_code": "LES FALAISES/R",
+    "stop_name": "LES FALAISES",
+    "stop_lat": "43.520103",
+    "stop_lon": "2.310689",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843700012:LOC",
+    "stop_code": "LABRUGUIERE LA TIGNARIE/R",
+    "stop_name": "LABRUGUIERE LA TIGNARIE",
+    "stop_lat": "43.533851",
+    "stop_lon": "2.275166",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851140004:LOC",
+    "stop_code": "SIMON",
+    "stop_name": "SIMON",
+    "stop_lat": "43.536464",
+    "stop_lon": "2.265467",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:858810003:LOC",
+    "stop_code": "LABRUGUIERE CENTRE/R",
+    "stop_name": "LABRUGUIERE CENTRE",
+    "stop_lat": "43.539237",
+    "stop_lon": "2.264487",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826670004:LOC",
+    "stop_code": "CHAPELLE/R",
+    "stop_name": "CHAPELLE",
+    "stop_lat": "43.542865",
+    "stop_lon": "2.269677",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:814590004:LOC",
+    "stop_code": "DE COUX/R",
+    "stop_name": "DE COUX",
+    "stop_lat": "43.545787",
+    "stop_lon": "2.272546",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834480004:LOC",
+    "stop_code": "CAUSSE/R",
+    "stop_name": "CAUSSE",
+    "stop_lat": "43.560546",
+    "stop_lon": "2.271826",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853080004:LOC",
+    "stop_code": "HOPITAL",
+    "stop_name": "HOPITAL",
+    "stop_lat": "43.565795",
+    "stop_lon": "2.263056",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853950014:LOC",
+    "stop_name": "CRECHE",
+    "stop_lat": "43.567249",
+    "stop_lon": "2.263101",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843690017:LOC",
+    "stop_code": "DE GAULLE/R",
+    "stop_name": "DE GAULLE",
+    "stop_lat": "43.596233",
+    "stop_lon": "2.262456",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831810004:LOC",
+    "stop_code": "VIGUIER/R",
+    "stop_name": "VIGUIER",
+    "stop_lat": "43.597618",
+    "stop_lon": "2.259835",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843730005:LOC",
+    "stop_code": "ROUSSEAU/R",
+    "stop_name": "ROUSSEAU",
+    "stop_lat": "43.598762",
+    "stop_lon": "2.257663",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:838170003:LOC",
+    "stop_name": "BRADFORD",
+    "stop_lat": "43.498374",
+    "stop_lon": "2.369595",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849350004:LOC",
+    "stop_code": "LA ROUGEARIE/R",
+    "stop_name": "LA ROUGEARIE",
+    "stop_lat": "43.507812",
+    "stop_lon": "2.354405",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843750003:LOC",
+    "stop_code": "SAINT-ALBY/R",
+    "stop_name": "SAINT-ALBY",
+    "stop_lat": "43.508525",
+    "stop_lon": "2.34606",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856850004:LOC",
+    "stop_code": "ROUBINARIE/R",
+    "stop_name": "ROUBINARIE",
+    "stop_lat": "43.515655",
+    "stop_lon": "2.317511",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:858800004:LOC",
+    "stop_code": "CAUCALIERES/R",
+    "stop_name": "CAUCALIERES",
+    "stop_lat": "43.518196",
+    "stop_lon": "2.308379",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834490004:LOC",
+    "stop_code": "AEROPORT",
+    "stop_name": "AEROPORT",
+    "stop_lat": "43.553447",
+    "stop_lon": "2.289155",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:810260005:LOC",
+    "stop_code": "ROUSSEAU",
+    "stop_name": "ROUSSEAU",
+    "stop_lat": "43.598293",
+    "stop_lon": "2.258358",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824780005:LOC",
+    "stop_code": "VIGUIER",
+    "stop_name": "VIGUIER",
+    "stop_lat": "43.597519",
+    "stop_lon": "2.259847",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834510006:LOC",
+    "stop_code": "DE GAULLE",
+    "stop_name": "DE GAULLE",
+    "stop_lat": "43.596536",
+    "stop_lon": "2.261678",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:861810001:LOC",
+    "stop_name": "CRECHE",
+    "stop_lat": "43.566902",
+    "stop_lon": "2.263453",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:839690005:LOC",
+    "stop_code": "CAUSSE",
+    "stop_name": "CAUSSE",
+    "stop_lat": "43.560382",
+    "stop_lon": "2.271966",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856850006:LOC",
+    "stop_code": "DE COUX",
+    "stop_name": "DE COUX",
+    "stop_lat": "43.546154",
+    "stop_lon": "2.272677",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849270015:LOC",
+    "stop_code": "CHAPELLE",
+    "stop_name": "CHAPELLE",
+    "stop_lat": "43.542427",
+    "stop_lon": "2.268876",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834480006:LOC",
+    "stop_code": "AVEROUS",
+    "stop_name": "AVEROUS",
+    "stop_lat": "43.537078",
+    "stop_lon": "2.263104",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856830005:LOC",
+    "stop_code": "LES FALAISES",
+    "stop_name": "LES FALAISES",
+    "stop_lat": "43.520191",
+    "stop_lon": "2.310813",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:824770006:LOC",
+    "stop_code": "LA TREMOULEDE",
+    "stop_name": "LA TREMOULEDE",
+    "stop_lat": "43.519702",
+    "stop_lon": "2.344908",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849350006:LOC",
+    "stop_code": "LA NAURE",
+    "stop_name": "LA NAURE",
+    "stop_lat": "43.520053",
+    "stop_lon": "2.351881",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:854940005:LOC",
+    "stop_code": "LA FREGERE",
+    "stop_name": "LA FREGERE",
+    "stop_lat": "43.519161",
+    "stop_lon": "2.35992",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843700014:LOC",
+    "stop_code": "EMPRADES",
+    "stop_name": "EMPRADES",
+    "stop_lat": "43.521076",
+    "stop_lon": "2.365395",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:851130006:LOC",
+    "stop_code": "RIGAUTOU",
+    "stop_name": "RIGAUTOU",
+    "stop_lat": "43.519729",
+    "stop_lon": "2.369326",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826670011:LOC",
+    "stop_code": "CAUCALIERES",
+    "stop_name": "CAUCALIERES",
+    "stop_lat": "43.51786",
+    "stop_lon": "2.308925",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853080010:LOC",
+    "stop_code": "ROUBINARIE",
+    "stop_name": "ROUBINARIE",
+    "stop_lat": "43.51569",
+    "stop_lon": "2.316901",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:858800011:LOC",
+    "stop_code": "SAINT-ALBY",
+    "stop_name": "SAINT-ALBY",
+    "stop_lat": "43.508341",
+    "stop_lon": "2.343851",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:828690013:LOC",
+    "stop_code": "LA ROUGEARIE",
+    "stop_name": "LA ROUGEARIE",
+    "stop_lat": "43.507678",
+    "stop_lon": "2.35466",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:843760008:LOC",
+    "stop_code": "MOULIN/R",
+    "stop_name": "MOULIN",
+    "stop_lat": "43.507972",
+    "stop_lon": "2.363405",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826690013:LOC",
+    "stop_code": "MEDIATHEQUE/R",
+    "stop_name": "MEDIATHEQUE",
+    "stop_lat": "43.503639",
+    "stop_lon": "2.362728",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849340004:LOC",
+    "stop_code": "BRADFORD",
+    "stop_name": "BRADFORD",
+    "stop_lat": "43.498313",
+    "stop_lon": "2.370515",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853090003:LOC",
+    "stop_code": "PLACE JEAN JAURES",
+    "stop_name": "PLACE JEAN JAURES",
+    "stop_lat": "43.605415",
+    "stop_lon": "2.242468",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:849270013:LOC",
+    "stop_code": "ZOLA (navette)",
+    "stop_name": "ZOLA (navette)",
+    "stop_lat": "43.606498",
+    "stop_lon": "2.237918",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:856840003:LOC",
+    "stop_code": "D'ESPIC",
+    "stop_name": "D'ESPIC",
+    "stop_lat": "43.602737",
+    "stop_lon": "2.24711",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:834500003:LOC",
+    "stop_code": "1ER MAI",
+    "stop_name": "1ER MAI",
+    "stop_lat": "43.601508",
+    "stop_lon": "2.24852",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:854950005:LOC",
+    "stop_code": "GERARD PHILIPE",
+    "stop_name": "GERARD PHILIPE",
+    "stop_lat": "43.601057",
+    "stop_lon": "2.249722",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:831810006:LOC",
+    "stop_code": "FOURCHES",
+    "stop_name": "FOURCHES",
+    "stop_lat": "43.600387",
+    "stop_lon": "2.245682",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:839690003:LOC",
+    "stop_code": "GOUNOD",
+    "stop_name": "GOUNOD",
+    "stop_lat": "43.61238",
+    "stop_lon": "2.238313",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:810270003:LOC",
+    "stop_code": "BELLEVUE",
+    "stop_name": "BELLEVUE",
+    "stop_lat": "43.613956",
+    "stop_lon": "2.240042",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:854940004:LOC",
+    "stop_code": "SAINT JEAN",
+    "stop_name": "SAINT JEAN",
+    "stop_lat": "43.615615",
+    "stop_lon": "2.240206",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:826660003:LOC",
+    "stop_code": "LA SERP",
+    "stop_name": "LA SERP",
+    "stop_lat": "43.615985",
+    "stop_lon": "2.237865",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  },
+  {
+    "stop_id": "zenbus:StopPoint:SP:853940013:LOC",
+    "stop_name": "Provisoire Chrono",
+    "stop_lat": "43.613479",
+    "stop_lon": "2.238177",
+    "location_type": "0",
+    "wheelchair_boarding": "0"
+  }
+]

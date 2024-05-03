@@ -1,0 +1,12 @@
+service_id,date,exception_type
+cal1-mon-tue-wed-thu-fri-3,20240508,2
+cal1-mon-tue-wed-thu-fri-3,20240509,2
+cal1-mon-tue-wed-thu-fri-3,20240520,2
+cal3-mon-tue-wed-thu-fri-sat-3,20240508,2
+cal3-mon-tue-wed-thu-fri-sat-3,20240509,2
+cal3-mon-tue-wed-thu-fri-sat-3,20240520,2
+cal4-mon-tue-thu-fri-2,20240509,2
+cal4-mon-tue-thu-fri-2,20240520,2
+cal6-mon-tue-wed-fri-2,20240508,2
+cal6-mon-tue-wed-fri-2,20240520,2
+cal7-thu-1,20240509,2

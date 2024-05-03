@@ -1,0 +1,24 @@
+{
+  "name": "libellusapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "express": "^4.18.3",
+    "gtfs-realtime-bindings": "^1.1.1",
+    "path": "^0.12.7",
+    "pdfkit": "^0.15.0",
+    "pdfkit-table": "^0.1.99",
+    "request": "^2.88.2",
+    "vhost": "^3.0.2"
+  }
+}

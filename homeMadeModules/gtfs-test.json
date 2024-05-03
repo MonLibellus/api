@@ -1,0 +1,594 @@
+{
+    "header": {
+      "gtfsRealtimeVersion": "2.0",
+      "incrementality": "FULL_DATASET",
+      "timestamp": "1710184646"
+    },
+    "entity": [
+      {
+        "id": "zenbus:Vehicle:904020002:LOC",
+        "vehicle": {
+          "trip": {
+            "tripId": "6193451787878400:27",
+            "startTime": "18:58:00",
+            "startDate": "20240311",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "zenbus:Line:834460001:LOC"
+          },
+          "position": {
+            "latitude": 43.59870529174805,
+            "longitude": 2.230664014816284
+          },
+          "currentStopSequence": 33,
+          "currentStatus": "IN_TRANSIT_TO",
+          "timestamp": "1710181224",
+          "stopId": "zenbus:StopPoint:SP:839690009:LOC",
+          "vehicle": {
+            "id": "zenbus:Vehicle:904020002:LOC"
+          }
+        }
+      },
+      {
+        "id": "20240311:5133516002033664:27",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "6193451787878400:27",
+            "startTime": "18:58:00",
+            "startDate": "20240311",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "zenbus:Line:834460001:LOC"
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 33,
+              "arrival": {
+                "time": "1710616738"
+              },
+              "departure": {
+                "time": "1710184748"
+              },
+              "stopId": "zenbus:StopPoint:SP:839690009:LOC",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "zenbus:Vehicle:904020002:LOC"
+          },
+          "timestamp": "1710184642"
+        }
+      },
+      {
+        "id": "zenbus:Vehicle:883880004:LOC",
+        "vehicle": {
+          "trip": {
+            "tripId": "6295441054367744:24",
+            "startTime": "18:50:00",
+            "startDate": "20240311",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "zenbus:Line:854940001:LOC"
+          },
+          "position": {
+            "latitude": 43.59477233886719,
+            "longitude": 2.2366859912872314
+          },
+          "currentStopSequence": 38,
+          "currentStatus": "IN_TRANSIT_TO",
+          "timestamp": "1710180866",
+          "stopId": "zenbus:StopPoint:SP:854950006:LOC",
+          "vehicle": {
+            "id": "zenbus:Vehicle:883880004:LOC"
+          }
+        }
+      },
+      {
+        "id": "20240311:5071879899447296:24",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "6295441054367744:24",
+            "startTime": "18:50:00",
+            "startDate": "20240311",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "zenbus:Line:854940001:LOC"
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 37,
+              "stopId": "zenbus:StopPoint:SP:828680005:LOC",
+              "scheduleRelationship": "SKIPPED"
+            },
+            {
+              "stopSequence": 38,
+              "arrival": {
+                "time": "1710184703"
+              },
+              "departure": {
+                "time": "1710184713"
+              },
+              "stopId": "zenbus:StopPoint:SP:854950006:LOC",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 39,
+              "arrival": {
+                "time": "1710184732"
+              },
+              "departure": {
+                "time": "1710184742"
+              },
+              "stopId": "zenbus:StopPoint:SP:834470006:LOC",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 40,
+              "arrival": {
+                "time": "1710184962"
+              },
+              "departure": {
+                "time": "1710184772"
+              },
+              "stopId": "zenbus:StopPoint:SP:837880004:LOC",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "zenbus:Vehicle:883880004:LOC"
+          },
+          "timestamp": "1710184545"
+        }
+      },
+      {
+        "id": "zenbus:Vehicle:917570003:LOC",
+        "vehicle": {
+          "trip": {
+            "tripId": "5152545525727232:22",
+            "startTime": "19:07:00",
+            "startDate": "20240311",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "zenbus:Line:843700008:LOC"
+          },
+          "position": {
+            "latitude": 43.60842514038086,
+            "longitude": 2.2391669750213623
+          },
+          "currentStopSequence": 29,
+          "currentStatus": "IN_TRANSIT_TO",
+          "timestamp": "1710181218",
+          "stopId": "zenbus:StopPoint:SP:843740004:LOC",
+          "vehicle": {
+            "id": "zenbus:Vehicle:917570003:LOC"
+          }
+        }
+      },
+      {
+        "id": "20240311:5102499660824576:22",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "5152545525727232:22",
+            "startTime": "19:07:00",
+            "startDate": "20240311",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "zenbus:Line:843700008:LOC"
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 29,
+              "arrival": {
+                "time": "1710184662"
+              },
+              "departure": {
+                "time": "1710184672"
+              },
+              "stopId": "zenbus:StopPoint:SP:843740004:LOC",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 30,
+              "arrival": {
+                "time": "1710184701"
+              },
+              "departure": {
+                "time": "1710184711"
+              },
+              "stopId": "zenbus:StopPoint:SP:834470004:LOC",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "zenbus:Vehicle:917570003:LOC"
+          },
+          "timestamp": "1710184646"
+        }
+      },
+      {
+        "id": "zenbus:Vehicle:909960003:LOC",
+        "vehicle": {
+          "trip": {
+            "tripId": "6204662405398528:9",
+            "startTime": "19:12:00",
+            "startDate": "20240311",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "zenbus:Line:824770001:LOC"
+          },
+          "position": {
+            "latitude": 43.59324645996094,
+            "longitude": 2.2499840259552
+          },
+          "currentStopSequence": 23,
+          "currentStatus": "STOPPED_AT",
+          "timestamp": "1710181772",
+          "stopId": "zenbus:StopPoint:SP:824790006:LOC",
+          "vehicle": {
+            "id": "zenbus:Vehicle:909960003:LOC"
+          }
+        }
+      },
+      {
+        "id": "20240311:6273073133125632:9",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "6204662405398528:9",
+            "startTime": "19:12:00",
+            "startDate": "20240311",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "zenbus:Line:824770001:LOC"
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 31,
+              "arrival": {
+                "time": "1710184646"
+              },
+              "departure": {
+                "time": "1710184656"
+              },
+              "stopId": "zenbus:StopPoint:SP:853080005:LOC",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 32,
+              "arrival": {
+                "time": "1710184683"
+              },
+              "departure": {
+                "time": "1710184693"
+              },
+              "stopId": "zenbus:StopPoint:SP:851150004:LOC",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 33,
+              "arrival": {
+                "time": "1710184738"
+              },
+              "departure": {
+                "time": "1710184748"
+              },
+              "stopId": "zenbus:StopPoint:SP:828680005:LOC",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 35,
+              "arrival": {
+                "time": "1710184791"
+              },
+              "departure": {
+                "time": "1710184801"
+              },
+              "stopId": "zenbus:StopPoint:SP:830780018:LOC",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 36,
+              "arrival": {
+                "time": "1710184841"
+              },
+              "departure": {
+                "time": "1710184851"
+              },
+              "stopId": "zenbus:StopPoint:SP:826670005:LOC",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "zenbus:Vehicle:909960003:LOC"
+          },
+          "timestamp": "1710184414"
+        }
+      },
+      {
+        "id": "zenbus:Vehicle:907920002:LOC",
+        "vehicle": {
+          "trip": {
+            "tripId": "5175485833150464:51",
+            "startTime": "19:40:00",
+            "startDate": "20240311",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "zenbus:Line:834470001:LOC"
+          },
+          "position": {
+            "latitude": 43.59286117553711,
+            "longitude": 2.2198140621185303
+          },
+          "currentStopSequence": 19,
+          "currentStatus": "IN_TRANSIT_TO",
+          "timestamp": "1710183572",
+          "stopId": "zenbus:StopPoint:SP:824780004:LOC",
+          "vehicle": {
+            "id": "zenbus:Vehicle:907920002:LOC"
+          }
+        }
+      },
+      {
+        "id": "20240311:5165033277358080:51",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "5175485833150464:51",
+            "startTime": "19:40:00",
+            "startDate": "20240311",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "zenbus:Line:834470001:LOC"
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 17,
+              "stopId": "zenbus:StopPoint:SP:826710003:LOC",
+              "scheduleRelationship": "SKIPPED"
+            },
+            {
+              "stopSequence": 18,
+              "stopId": "zenbus:StopPoint:SP:826680004:LOC",
+              "scheduleRelationship": "SKIPPED"
+            },
+            {
+              "stopSequence": 19,
+              "arrival": {
+                "time": "1710184894"
+              },
+              "departure": {
+                "time": "1710184904"
+              },
+              "stopId": "zenbus:StopPoint:SP:824780004:LOC",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 22,
+              "arrival": {
+                "time": "1710184934"
+              },
+              "departure": {
+                "time": "1710184944"
+              },
+              "stopId": "zenbus:StopPoint:SP:828690004:LOC",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 23,
+              "arrival": {
+                "time": "1710184983"
+              },
+              "departure": {
+                "time": "1710184993"
+              },
+              "stopId": "zenbus:StopPoint:SP:843730008:LOC",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "zenbus:Vehicle:907920002:LOC"
+          },
+          "timestamp": "1710184538"
+        }
+      },
+      {
+        "id": "5144738380382208",
+        "alert": {
+          "informedEntity": [
+            {
+              "routeId": "zenbus:Line:834460001:LOC"
+            },
+            {
+              "routeId": "zenbus:Line:824770001:LOC"
+            }
+          ],
+          "cause": "OTHER_CAUSE",
+          "headerText": {
+            "translation": [
+              {
+                "text": "INFORMATION"
+              }
+            ]
+          },
+          "descriptionText": {
+            "translation": [
+              {
+                "text": "Jusqu’à la fin des travaux, l'arrêt VERDIE (dans le sens CHARTREUSE vers centre-ville) ne sera plus desservi, veuillez-vous rendre à l’arrêt MONTREVEIL."
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "5179878338985984",
+        "alert": {
+          "activePeriod": [
+            {
+              "end": "1710385200"
+            }
+          ],
+          "informedEntity": [
+            {
+              "routeId": "zenbus:Line:834460001:LOC"
+            }
+          ],
+          "cause": "OTHER_CAUSE",
+          "headerText": {
+            "translation": [
+              {
+                "text": "INFORMATION"
+              }
+            ]
+          },
+          "descriptionText": {
+            "translation": [
+              {
+                "text": "Du jeudi 29 février au mardi 12 Mars, les arrêts BONAFE ne seront pas desservis, veuillez-vous rendre aux arrêts provisoires mis en place rue des Maquis."
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "5189237966110720",
+        "alert": {
+          "informedEntity": [
+            {
+              "routeId": "zenbus:Line:834460001:LOC"
+            },
+            {
+              "routeId": "zenbus:Line:826670001:LOC"
+            }
+          ],
+          "cause": "OTHER_CAUSE",
+          "headerText": {
+            "translation": [
+              {
+                "text": "INFORMATION"
+              }
+            ]
+          },
+          "descriptionText": {
+            "translation": [
+              {
+                "text": "Les jours de matchs du Castres Olympique et en fonction des horaires, les quartiers d’Aillot et de Bisséous ne seront pas desservis, veuillez-vous rendre à l’arrêt Leclerc pour la ligne 1 ou à l’arrêt Carnot pour la ligne 5."
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "5143905022509056",
+        "alert": {
+          "informedEntity": [
+            {
+              "routeId": "zenbus:Line:854940001:LOC"
+            }
+          ],
+          "cause": "OTHER_CAUSE",
+          "headerText": {
+            "translation": [
+              {
+                "text": "INFORMATION"
+              }
+            ]
+          },
+          "descriptionText": {
+            "translation": [
+              {
+                "text": "Jusqu’à la fin des travaux, les arrêts LAMEILHE ne pourront pas être desservis. Veuillez-vous rendre aux arrêts GAUGUIN."
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "5167581847617536",
+        "alert": {
+          "informedEntity": [
+            {
+              "routeId": "zenbus:Line:843700008:LOC"
+            }
+          ],
+          "cause": "OTHER_CAUSE",
+          "headerText": {
+            "translation": [
+              {
+                "text": "INFORMATION"
+              }
+            ]
+          },
+          "descriptionText": {
+            "translation": [
+              {
+                "text": "Jusqu’à la fin des travaux, l’arrêt CAMUS (vers Lameilhé) ne sera plus desservi, veuillez-vous rendre aux arrêts CRABIE ou PASCAL."
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "5105552642277376",
+        "alert": {
+          "informedEntity": [
+            {
+              "routeId": "zenbus:Line:824770001:LOC"
+            }
+          ],
+          "cause": "OTHER_CAUSE",
+          "headerText": {
+            "translation": [
+              {
+                "text": "INFORMATION"
+              }
+            ]
+          },
+          "descriptionText": {
+            "translation": [
+              {
+                "text": "Jusqu’à la fin des travaux, l’arrêt CAMUS (vers Lameilhé) ne sera plus desservi, veuillez-vous rendre aux arrêts BOSSUET ou COURTELINE."
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "5194474651123712",
+        "alert": {
+          "informedEntity": [
+            {
+              "routeId": "zenbus:Line:824770001:LOC"
+            }
+          ],
+          "cause": "OTHER_CAUSE",
+          "headerText": {
+            "translation": [
+              {
+                "text": "INFORMATION"
+              }
+            ]
+          },
+          "descriptionText": {
+            "translation": [
+              {
+                "text": "Jusqu’à la fin des travaux, les arrêts LAMEILHE ne pourront pas être desservis. Veuillez-vous rendre aux arrêts DAUDET."
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "5136737661616128",
+        "alert": {
+          "informedEntity": [
+            {
+              "routeId": "zenbus:Line:830780013:LOC"
+            }
+          ],
+          "cause": "CONSTRUCTION",
+          "headerText": {
+            "translation": [
+              {
+                "text": "CONSTRUCTION"
+              }
+            ]
+          },
+          "descriptionText": {
+            "translation": [
+              {
+                "text": "Jusqu’à la fin des travaux, l’arrêt Chapelle (dans le sens Labruguière vers Castres) ne sera pas desservi, veuillez-vous rendre à l’arrêt provisoire mis en place 100 mètres avant l’arrêt au 38 Av Charles de Gaulle."
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }

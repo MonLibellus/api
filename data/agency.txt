@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+Transports publics Libellus,Transports publics Libellus,https://www.castres-mazamet.fr/lignes-regulieres,Europe/Paris,fr,,,

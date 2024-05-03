@@ -1,0 +1,8 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+cal1-mon-tue-wed-thu-fri-3,1,1,1,1,1,0,0,20240426,20240628
+cal2-sat,0,0,0,0,0,1,0,20240427,20240629
+cal3-mon-tue-wed-thu-fri-sat-3,1,1,1,1,1,1,0,20240426,20240629
+cal4-mon-tue-thu-fri-2,1,1,0,1,1,0,0,20240426,20240628
+cal5-wed,0,0,1,0,0,0,0,20240515,20240626
+cal6-mon-tue-wed-fri-2,1,1,1,0,1,0,0,20240426,20240628
+cal7-thu-1,0,0,0,1,0,0,0,20240502,20240627

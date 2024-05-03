@@ -1,0 +1,112 @@
+[
+  {
+    "route_id": "zenbus:Line:834460001:LOC",
+    "agency_id": "Transports publics Libellus",
+    "route_short_name": "1",
+    "route_long_name": "Ligne 1",
+    "route_type": "3",
+    "route_color": "006E2B",
+    "route_text_color": "FFFFFF",
+    "route_sort_order": "0"
+  },
+  {
+    "route_id": "zenbus:Line:854940001:LOC",
+    "agency_id": "Transports publics Libellus",
+    "route_short_name": "2",
+    "route_long_name": "Ligne 2",
+    "route_type": "3",
+    "route_color": "FDC400",
+    "route_text_color": "000000",
+    "route_sort_order": "0"
+  },
+  {
+    "route_id": "zenbus:Line:843700008:LOC",
+    "agency_id": "Transports publics Libellus",
+    "route_short_name": "3",
+    "route_long_name": "Ligne 3",
+    "route_type": "3",
+    "route_color": "EB6909",
+    "route_text_color": "000000",
+    "route_sort_order": "0"
+  },
+  {
+    "route_id": "zenbus:Line:824770001:LOC",
+    "agency_id": "Transports publics Libellus",
+    "route_short_name": "4",
+    "route_long_name": "Ligne 4",
+    "route_type": "3",
+    "route_color": "89B011",
+    "route_text_color": "000000",
+    "route_sort_order": "0"
+  },
+  {
+    "route_id": "zenbus:Line:826670001:LOC",
+    "agency_id": "Transports publics Libellus",
+    "route_short_name": "5",
+    "route_long_name": "Ligne 5",
+    "route_type": "3",
+    "route_color": "009EE0",
+    "route_text_color": "FFFFFF",
+    "route_sort_order": "0"
+  },
+  {
+    "route_id": "zenbus:Line:826660001:LOC",
+    "agency_id": "Transports publics Libellus",
+    "route_short_name": "6",
+    "route_long_name": "Ligne 6",
+    "route_type": "3",
+    "route_color": "0053A0",
+    "route_text_color": "FFFFFF",
+    "route_sort_order": "0"
+  },
+  {
+    "route_id": "zenbus:Line:851140001:LOC",
+    "agency_id": "Transports publics Libellus",
+    "route_short_name": "7",
+    "route_long_name": "Ligne 7",
+    "route_type": "3",
+    "route_color": "F19FC1",
+    "route_text_color": "000000",
+    "route_sort_order": "0"
+  },
+  {
+    "route_id": "zenbus:Line:843730001:LOC",
+    "agency_id": "Transports publics Libellus",
+    "route_short_name": "8",
+    "route_long_name": "Ligne 8",
+    "route_type": "3",
+    "route_color": "E2001A",
+    "route_text_color": "FFFFFF",
+    "route_sort_order": "0"
+  },
+  {
+    "route_id": "zenbus:Line:853080001:LOC",
+    "agency_id": "Transports publics Libellus",
+    "route_short_name": "9",
+    "route_long_name": "Ligne 9",
+    "route_type": "3",
+    "route_color": "5B0C0C",
+    "route_text_color": "FFFFFF",
+    "route_sort_order": "0"
+  },
+  {
+    "route_id": "zenbus:Line:830780013:LOC",
+    "agency_id": "Transports publics Libellus",
+    "route_short_name": "10",
+    "route_long_name": "Ligne 10",
+    "route_type": "3",
+    "route_color": "D3007B",
+    "route_text_color": "FFFFFF",
+    "route_sort_order": "0"
+  },
+  {
+    "route_id": "zenbus:Line:834470001:LOC",
+    "agency_id": "Transports publics Libellus",
+    "route_short_name": "LIB",
+    "route_long_name": "Libellus Chrono",
+    "route_type": "3",
+    "route_color": "E2001A",
+    "route_text_color": "FFFFFF",
+    "route_sort_order": "0"
+  }
+]
