@@ -221,7 +221,8 @@ app.get('/delays', async (req, res) => {
                   currentStatut: currentStatus,
                   lineName: utilityBus.getLineName(tripUpdates[i].trip.routeId),
                   stopName: utilityBus.getStopName(currentStopId),
-                  delay: rawDelay
+                  delay: rawDelay,
+                  last_update: vehicles[i].timestamp
                 })
               } else {
                 console.log('No stop time found for trip ' + tripId + ' and stop ' + currentStopId);
@@ -355,20 +356,32 @@ app.get('/generateLatePDF', (req, res) => {
       let rep = [];
   
       for (var i = 0; i < data.length; i++) {
-            rep.push({
-              tripId: data[i].tripId,
-              stopId: data[i].stopId,
-              lineName: data[i].lineName,
-              stopName: data[i].stopName,
-              delay: data[i].delay,
-              headsign: utilityBus.getTripInfos(data[i].tripId).trip_headsign
-            });
+
+        const today = new Date();
+        const lastUpdateTime = data[i].last_update.low;
+        if((today.getTime()/1000 - 600) < lastUpdateTime) {
+          rep.push({
+            tripId: data[i].tripId,
+            stopId: data[i].stopId,
+            lineName: data[i].lineName,
+            stopName: data[i].stopName,
+            delay: data[i].delay,
+            headsign: utilityBus.getTripInfos(data[i].tripId).trip_headsign
+          });
+        }
       }
 
       let date = latestFile.split('-');
 
-      generatePDF(`${date[0]}/${date[1]}/${date[2]}`, date[3], date[4].replace(".json", ""), rep);
-      await res.sendFile(__dirname + '/rapport_retards.pdf');
+      if(rep.length === 0) {
+        await res.sendFile(__dirname + '/rapport_retards.pdf');
+        return;
+      } else {
+        generatePDF(`${date[0]}/${date[1]}/${date[2]}`, date[3], date[4].replace(".json", ""), rep);
+        await res.sendFile(__dirname + '/rapport_retards.pdf');
+        return;
+      }
+
 
     });
   });
@@ -440,7 +453,13 @@ function generatePDF(date, heure, minutes, busData) {
   // Tableau des retards
   const table = {
       headers: ['Ligne', 'Destination', 'Retard'],
-      rows: busData.map(bus => [bus.lineName, bus.headsign, `${(Math.floor(bus.delay / 60) < 0) ? `Avance ${Math.floor(bus.delay / 60).toString().replace("-", "")}` : `Retard ${Math.floor(bus.delay / 60)}`} minutes`])
+      rows: busData.map(bus => [bus.lineName, bus.headsign, 
+        `${(Math.floor(bus.delay / 60) === 0) ? "A l'heure" :
+        (Math.floor(bus.delay / 60) < 0) ? `Avance ${Math.floor(bus.delay / 60).toString().replace("-", "")}` :
+        `Retard ${Math.floor(bus.delay / 60)}`} minutes`
+      ])
+    
+      //rows: busData.map(bus => [bus.lineName, bus.headsign, `${(Math.floor(bus.delay / 60) < 0) ? `Avance ${Math.floor(bus.delay / 60).toString().replace("-", "")}` : `Retard ${Math.floor(bus.delay / 60)}`} minutes`])
   };
   doc.table(table, { width: 500, height: 200, prepareHeader: () => doc.font('Helvetica-Bold'), prepareRow: (row, i) => doc.font('Helvetica').fontSize(10) });
 
