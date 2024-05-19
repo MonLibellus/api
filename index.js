@@ -22,9 +22,10 @@ const apiDoc = {
   author: {
     "name": "Alexis RARCHAERT",
     "email": "bonjour@alexis-rarchaert.fr",
-    "website": "https://alexis-rarchaert.fr"
+    "website": "https://alexis-rarchaert.fr",
+    "contributors": [{}]
   },
-  version: '1.0.0',
+  version: '1.0.1',
   data: {
     "static": [
       {
@@ -106,7 +107,7 @@ const apiDoc = {
         endpoint: '/tripsThroughStop/:stopId'
       }
     ],
-    "realtime": [
+    "dynamic": [
       {
         name: 'gtfs-rt',
         description: 'Récupère les données GTFS-RT brutes des bus de l\'agglomération de Castres-Mazamet',
@@ -225,10 +226,10 @@ app.get('/delays', async (req, res) => {
                   last_update: vehicles[i].timestamp
                 })
               } else {
-                console.log('No stop time found for trip ' + tripId + ' and stop ' + currentStopId);
+                console.error("ERROR | Stop time not found for tripId: ", tripId);
               }
             } catch (error) {
-              console.error("Error:", error);
+              console.error("ERROR | Error retrieving delay data: ", error);
               res.status(500).send('Error retrieving delay data: ' + error);
             }
           }
@@ -242,7 +243,7 @@ app.get('/delays', async (req, res) => {
 
 
   } catch (error) {
-    console.error("Error:", error);
+    console.error("ERROR | Error retrieving delay data: ", error);
     res.status(500).send('Error retrieving delay data');
   }
 });
@@ -250,21 +251,25 @@ app.get('/delays', async (req, res) => {
 
 //On ajoute une route pour afficher les lignes des bus
 app.get('/routes', (req, res) => {
+  console.info('REQUEST | /routes');
   res.sendFile(__dirname + '/json_data/routes.json');
 });
 
 //On ajoute une route pour afficher les informations d'une ligne
 app.get('/routes/:routeId', (req, res) => {
+  console.info('REQUEST | /routes/', req.params.routeId);
   const routeInfos = utilityBus.getRouteInfos(req.params.routeId);
   res.json(routeInfos);
 });
 
 //On ajoute une route pour afficher les shapes des bus
 app.get('/shapes', (req, res) => {
+  console.info('REQUEST | /shapes');
   res.sendFile(__dirname + '/json_data/shapes.json');
 });
 
 const getStopTimes = async (req, res) => {
+  console.info('REQUEST | /stop_times');
   res.sendFile(__dirname + '/json_data/stop_times.json');
 };
 //On ajoute une route pour afficher les stop_times des bus
@@ -272,51 +277,60 @@ app.get('/stop_times', getStopTimes);
 
 //On ajoute une route pour afficher les stops des bus
 app.get('/stops', (req, res) => {
+  console.info('REQUEST | /stops');
   res.sendFile(__dirname + '/json_data/stops.json');
 });
 
 //On ajoute une route pour afficher les trips des bus
 app.get('/trips', (req, res) => {
+  console.info('REQUEST | /trips');
   res.sendFile(__dirname + '/json_data/trips.json');
 });
 
 //On ajoute une route pour afficher le calendrier des bus
 app.get('/calendar', (req, res) => {
+  console.info('REQUEST | /calendar');
   res.sendFile(__dirname + '/json_data/calendar.json');
 });
 
 // On ajoute une route pour afficher les informations d'un arrêt
 app.get('/stops/:stopId', (req, res) => {
+  console.info('REQUEST | /stops/', req.params.stopId);
   const stopInfos = utilityBus.getStopsInfos(req.params.stopId);
   res.json(stopInfos);
 });
 
 // On ajoute une route pour afficher les lignes passant par un arrêt
 app.get('/stops/:stopId/lines', (req, res) => {
+  console.info('REQUEST | /stops/', req.params.stopId, '/lines');
   const lines = utilityBus.getLinesThroughStop(req.params.stopId);
   res.json(lines);
 });
 
 // On ajoute une route pour afficher les prochains bus à un arrêt
 app.get('/stops/:stopId/nextBuses', (req, res) => {
+  console.info('REQUEST | /stops/', req.params.stopId, '/nextBuses');
   const nextBuses = utilityBus.getNextBusesStop(req.params.stopId);
   res.json(nextBuses);
 });
 
 // On ajoute une route pour afficher les arrêts d'un voyage
 app.get('/trips/:tripId/stops', (req, res) => {
+  console.info('REQUEST | /trips/', req.params.tripId, '/stops');
   const stops = utilityBus.getStopsForTrip(req.params.tripId);
   res.json(stops);
 });
 
 // On ajoute une route pour afficher la durée d'un voyage
 app.get('/trips/:tripId/duration', (req, res) => {
+  console.info('REQUEST | /trips/', req.params.tripId, '/duration');
   const duration = utilityBus.getTripsDuration(req.params.tripId);
   res.json(duration);
 });
 
 //On créé une route pour chercher les trajets qui passent par un arrêt
 app.get('/tripsThroughStop/:stopId', (req, res) => {
+  console.info('REQUEST | /tripsThroughStop/', req.params.stopId);
   const trips = utilityBus.getTripsThroughStop(req.params.stopId);
   const parsedTrips = [];
   //On loop les trajets et on utilise la fonction getLineInfos pour récupérer les infos de la ligne
@@ -389,31 +403,23 @@ app.get('/generateLatePDF', (req, res) => {
 
 // On ajoute une route pour afficher la documentation de l'API
 app.get('/', (req, res) => {
+  console.info('REQUEST | /');
   res.json(apiDoc);
 });
 
 // On lance le serveur sur le port 3000
 app.listen(3000, () => {
-  console.log('Server is running port 3000');
+  console.log('AUTO | Server is running port 3000');
 });
 
 async function saveRetards() {
-  const today = new Date();
-  const day = today.getDay();
-
-  if(day === 0) {
-    console.info('It\'s Sunday, no buses today');
-    return;
-  } else {
-    console.info('Saving delays...');
+    console.info('INFO | Saving delays...');
 
     let requestSettings = {
       method: 'GET',
       url: 'http://api.libellus.alexis-rarchaert.fr/delays',
       encoding: null
     };
-
-    console.info('Requesting delays...');
 
     await request(requestSettings, (error, response, body) => {
       if (!error && response.statusCode == 200) {
@@ -423,21 +429,28 @@ async function saveRetards() {
         const fileName = date.getDate() + '-' + (date.getMonth() + 1) + '-' + date.getFullYear() + '-' + date.getHours() + '-' + date.getMinutes() + '.json';
 
         if(data.length === 0) {
-          console.info('No delays to save');
+          console.info('INFO | No delays to save');
           return;
         } else {
-          console.info('Delays to save:', data.length);
+          console.info('INFO |', data.length, ' delays to save');
           fs.writeFile(__dirname + '/saved_lates/' + fileName, JSON.stringify(data), (err) => {
             if (err) throw err;
-            console.log('Delays saved in ' + fileName + ' !');
+            console.log('INFO | Delay(s) saved in ' + fileName);
+            console.log("INFO | Generating PDF...");
+            
+            //http request to generate PDF
+            axios.get('http://localhost:3000/generateLatePDF').then((response) => {
+              console.log('INFO | PDF generated');
+            }).catch((error) => {
+              console.error('ERROR | Error generating PDF:', error);
+            });
           });
         }
         
       } else {
-        console.error("Error:", error);
+        console.error("ERROR | Error retrieving delay data:", error);
       }
     })
-  }
 }
 
 function generatePDF(date, heure, minutes, busData) {
