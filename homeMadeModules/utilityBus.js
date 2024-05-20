@@ -84,31 +84,38 @@ function getTripsThroughStop(stopId) { //On récupère les voyages passant par u
 }
 
 //On récupère les prochains bus à un arrêt, on classe les bus par l'heure
-function getNextBusesStop(stopId) {
+function getNextBusesStop(stopId, dateArg) {
     const nextBuses = [];
     const trips = allTrips.filter(trip => {
         const stops = getStopsForTrip(trip.trip_id);
         return stops.includes(stopId);
     });
 
+    let date;
+    if(dateArg) {
+        date = new Date(parseInt(dateArg));
+        console.log("Argument:" + dateArg)
+        console.info("Updated date: " + date);
+    } else {
+        date = new Date()
+    }
+
+    const day = date.toLocaleDateString('en-US', { weekday: 'long' });
+
+    function addZeros(i) {
+        if (i < 10) {
+            i = "0" + i;
+        }
+        return i;
+    }
+
+    const currentTimeStamp = date;
+    const currentDate = currentTimeStamp.getFullYear() + '' + addZeros(currentTimeStamp.getMonth() + 1) + '' + addZeros(currentTimeStamp.getDate());
+
     trips.forEach(trip => {
         const stopTimesForTrip = stopTimesData.filter(stopTime => stopTime.trip_id === trip.trip_id);
         const nextStopTime = stopTimesForTrip.find(stopTime => stopTime.stop_id === stopId);
-
-        //Récuperer le jour actuel au format (Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday)
-        const date = new Date();
-        const day = date.toLocaleDateString('en-US', { weekday: 'long' });
-
-        function addZeros(i) {
-            if (i < 10) {
-                i = "0" + i;
-            }
-            return i;
-        }
-
-        const currentTimeStamp = date;
-        const currentDate = currentTimeStamp.getFullYear() + '' + addZeros(currentTimeStamp.getMonth() + 1) + '' + addZeros(currentTimeStamp.getDate());
-
+        
         calendar.forEach(calendar => {
             if(calendar.service_id === trip.service_id) {
 
