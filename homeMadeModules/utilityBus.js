@@ -4,6 +4,7 @@ const allTrips = require('../json_data/trips.json');
 const stopTimesData = require('../json_data/stop_times.json');
 const routes = require('../json_data/routes.json');
 const calendar = require('../json_data/calendar.json');
+const calendarDates = require('../json_data/calendar_dates.json');
 
 function getStopsForTrip(tripId) { //On récupère les arrêts d'un voyage
     const StopsForTrip = [];
@@ -106,20 +107,30 @@ function getNextBusesStop(stopId) {
         }
 
         const currentTimeStamp = date;
+        const currentDate = currentTimeStamp.getFullYear() + '' + addZeros(currentTimeStamp.getMonth() + 1) + '' + addZeros(currentTimeStamp.getDate());
 
         calendar.forEach(calendar => {
             if(calendar.service_id === trip.service_id) {
-                if (calendar[day.toLowerCase()] == 1) {
-                    const busTime = new Date(`${currentTimeStamp.getFullYear()}-${addZeros(currentTimeStamp.getMonth() + 1)}-${addZeros(currentTimeStamp.getDate())} ${nextStopTime.arrival_time}`);
-                    if (busTime > currentTimeStamp) {
-                        nextBuses.push({
-                            trip_id: trip.trip_id,
-                            route_id: trip.route_id,
-                            calendar: trip.service_id,
-                            arrival_time: nextStopTime.arrival_time,
-                            trip_headsign: trip.trip_headsign,
-                        });
-                    } 
+
+                const result = calendarDates.find(exception => 
+                    exception.service_id === trip.service_id && exception.date === currentDate
+                );
+
+                if(result?.exception_type == 2) {
+                    return;
+                } else {
+                    if (calendar[day.toLowerCase()] == 1) {
+                        const busTime = new Date(`${currentTimeStamp.getFullYear()}-${addZeros(currentTimeStamp.getMonth() + 1)}-${addZeros(currentTimeStamp.getDate())} ${nextStopTime.arrival_time}`);
+                        if (busTime >= currentTimeStamp) {
+                            nextBuses.push({
+                                trip_id: trip.trip_id,
+                                route_id: trip.route_id,
+                                calendar: trip.service_id,
+                                arrival_time: nextStopTime.arrival_time,
+                                trip_headsign: trip.trip_headsign,
+                            });
+                        } 
+                    }
                 }
             }
         });
