@@ -93,6 +93,11 @@ function getNextBusesStop(stopId, dateArg) {
 
     let date;
     if(dateArg) {
+
+        if(dateArg.length == 10) {
+            dateArg = parseInt(dateArg) * 1000;
+        }
+
         date = new Date(parseInt(dateArg));
         console.log("Argument:" + dateArg)
         console.info("Updated date: " + date);
@@ -115,7 +120,7 @@ function getNextBusesStop(stopId, dateArg) {
     trips.forEach(trip => {
         const stopTimesForTrip = stopTimesData.filter(stopTime => stopTime.trip_id === trip.trip_id);
         const nextStopTime = stopTimesForTrip.find(stopTime => stopTime.stop_id === stopId);
-        
+
         calendar.forEach(calendar => {
             if(calendar.service_id === trip.service_id) {
 
