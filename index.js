@@ -84,9 +84,9 @@ const apiDoc = {
       },
       {
         name: 'nextBusesStop',
-        description: 'Récupère les prochains bus à un arrêt de bus',
+        description: 'Récupère les prochains bus à un arrêt de bus (optionnel: date au format timestamp)',
         method: 'GET',
-        endpoint: '/stops/:stopId/nextBuses'
+        endpoint: '/stops/:stopId/nextBuses/:date'
       },
       {
         name: 'stopsForTrip',
@@ -308,10 +308,19 @@ app.get('/stops/:stopId/lines', (req, res) => {
 });
 
 // On ajoute une route pour afficher les prochains bus à un arrêt
-app.get('/stops/:stopId/nextBuses', (req, res) => {
+app.get('/stops/:stopId/nextBuses/:date', (req, res) => {
   console.info('REQUEST | /stops/', req.params.stopId, '/nextBuses');
-  const nextBuses = utilityBus.getNextBusesStop(req.params.stopId);
-  res.json(nextBuses);
+
+  let nextBuses;
+  if(req.params.date) {
+    nextBuses = utilityBus.getNextBusesStop(req.params.stopId, req.params.date);
+    console.info('INFO | Next buses for stop', req.params.stopId, 'at', req.params.date);
+    res.json(nextBuses);
+  } else {
+    nextBuses = utilityBus.getNextBusesStop(req.params.stopId);
+    console.info('INFO | Next buses for stop', req.params.stopId);
+    res.json(nextBuses);
+  }
 });
 
 // On ajoute une route pour afficher les arrêts d'un voyage
