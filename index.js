@@ -6,8 +6,10 @@ const axios = require('axios');
 const vhost = require('vhost');
 const path = require('path');
 const PDFDocument = require("pdfkit-table");
+const ua = require('universal-analytics');
 
 const GtfsRealtimeBindings = require('gtfs-realtime-bindings').transit_realtime;
+const visitor = ua('G-CLRFV0KQSW');
 
 const utilityBus = require('./homeMadeModules/utilityBus');
 
@@ -147,6 +149,8 @@ const getGtfsRt = async (req, res) => {
       res.status(500).send('Error retrieving GTFS-RT data');
     }
   });
+
+  visitor.event("GTFS-RT", "GET", req.headers.host, req.headers['user-agent'], req.headers['x-forwarded-for']).send();
 };
 
 app.get('/gtfs-rt', getGtfsRt);
@@ -246,6 +250,8 @@ app.get('/delays', async (req, res) => {
     console.error("ERROR | Error retrieving delay data: ", error);
     res.status(500).send('Error retrieving delay data');
   }
+
+  visitor.event("Delays", "GET", req.headers.host, req.headers['user-agent'], req.headers['x-forwarded-for']).send();
 });
 
 
@@ -253,6 +259,8 @@ app.get('/delays', async (req, res) => {
 app.get('/routes', (req, res) => {
   console.info('REQUEST | /routes');
   res.sendFile(__dirname + '/json_data/routes.json');
+
+  visitor.event("Routes", "GET", req.headers.host, req.headers['user-agent'], req.headers['x-forwarded-for']).send();
 });
 
 //On ajoute une route pour afficher les informations d'une ligne
@@ -260,17 +268,23 @@ app.get('/routes/:routeId', (req, res) => {
   console.info('REQUEST | /routes/', req.params.routeId);
   const routeInfos = utilityBus.getRouteInfos(req.params.routeId);
   res.json(routeInfos);
+
+  visitor.event("RouteInfos", "GET", req.headers.host, req.headers['user-agent'], req.headers['x-forwarded-for']).send();
 });
 
 //On ajoute une route pour afficher les shapes des bus
 app.get('/shapes', (req, res) => {
   console.info('REQUEST | /shapes');
   res.sendFile(__dirname + '/json_data/shapes.json');
+
+  visitor.event("Shapes", "GET", req.headers.host, req.headers['user-agent'], req.headers['x-forwarded-for']).send();
 });
 
 const getStopTimes = async (req, res) => {
   console.info('REQUEST | /stop_times');
   res.sendFile(__dirname + '/json_data/stop_times.json');
+
+  visitor.event("StopTimes", "GET", req.headers.host, req.headers['user-agent'], req.headers['x-forwarded-for']).send();
 };
 //On ajoute une route pour afficher les stop_times des bus
 app.get('/stop_times', getStopTimes);
@@ -279,18 +293,24 @@ app.get('/stop_times', getStopTimes);
 app.get('/stops', (req, res) => {
   console.info('REQUEST | /stops');
   res.sendFile(__dirname + '/json_data/stops.json');
+
+  visitor.event("Stops", "GET", req.headers.host, req.headers['user-agent'], req.headers['x-forwarded-for']).send();
 });
 
 //On ajoute une route pour afficher les trips des bus
 app.get('/trips', (req, res) => {
   console.info('REQUEST | /trips');
   res.sendFile(__dirname + '/json_data/trips.json');
+
+  visitor.event("Trips", "GET", req.headers.host, req.headers['user-agent'], req.headers['x-forwarded-for']).send();
 });
 
 //On ajoute une route pour afficher le calendrier des bus
 app.get('/calendar', (req, res) => {
   console.info('REQUEST | /calendar');
   res.sendFile(__dirname + '/json_data/calendar.json');
+
+  visitor.event("Calendar", "GET", req.headers.host, req.headers['user-agent'], req.headers['x-forwarded-for']).send();
 });
 
 // On ajoute une route pour afficher les informations d'un arrêt
@@ -298,6 +318,8 @@ app.get('/stops/:stopId', (req, res) => {
   console.info('REQUEST | /stops/', req.params.stopId);
   const stopInfos = utilityBus.getStopsInfos(req.params.stopId);
   res.json(stopInfos);
+
+  G-CLRFV0KQSW
 });
 
 // On ajoute une route pour afficher les lignes passant par un arrêt
@@ -305,6 +327,8 @@ app.get('/stops/:stopId/lines', (req, res) => {
   console.info('REQUEST | /stops/', req.params.stopId, '/lines');
   const lines = utilityBus.getLinesThroughStop(req.params.stopId);
   res.json(lines);
+
+  visitor.event("LinesThroughStop", "GET", req.headers.host, req.headers['user-agent'], req.headers['x-forwarded-for']).send();
 });
 
 // On ajoute une route pour afficher les prochains bus à un arrêt
@@ -321,6 +345,8 @@ app.get('/stops/:stopId/nextBuses/:date', (req, res) => {
     console.info('INFO | Next buses for stop', req.params.stopId);
     res.json(nextBuses);
   }
+
+  visitor.event("NextBuses", "GET", req.headers.host, req.headers['user-agent'], req.headers['x-forwarded-for']).send();
 });
 
 // On ajoute une route pour afficher les arrêts d'un voyage
@@ -328,6 +354,8 @@ app.get('/trips/:tripId/stops', (req, res) => {
   console.info('REQUEST | /trips/', req.params.tripId, '/stops');
   const stops = utilityBus.getStopsForTrip(req.params.tripId);
   res.json(stops);
+
+  visitor.event("StopsForTrip", "GET", req.headers.host, req.headers['user-agent'], req.headers['x-forwarded-for']).send();
 });
 
 // On ajoute une route pour afficher la durée d'un voyage
@@ -335,6 +363,8 @@ app.get('/trips/:tripId/duration', (req, res) => {
   console.info('REQUEST | /trips/', req.params.tripId, '/duration');
   const duration = utilityBus.getTripsDuration(req.params.tripId);
   res.json(duration);
+
+  visitor.event("TripDuration", "GET", req.headers.host, req.headers['user-agent'], req.headers['x-forwarded-for']).send();
 });
 
 //On créé une route pour chercher les trajets qui passent par un arrêt
@@ -353,6 +383,8 @@ app.get('/tripsThroughStop/:stopId', (req, res) => {
   });
 
   res.json(parsedTrips);
+
+  visitor.event("TripsThroughStop", "GET", req.headers.host, req.headers['user-agent'], req.headers['x-forwarded-for']).send();
 });
 
 //On créé une route qui permet de créer un fichier PDF pour créer un justificatif de retard
@@ -408,17 +440,23 @@ app.get('/generateLatePDF', (req, res) => {
 
     });
   });
+
+  visitor.event("GenerateLatePDF", "GET", req.headers.host, req.headers['user-agent'], req.headers['x-forwarded-for']).send();
 });
 
 // On ajoute une route pour afficher la documentation de l'API
 app.get('/', (req, res) => {
   console.info('REQUEST | /');
   res.json(apiDoc);
+
+  visitor.event("API", "GET", req.headers.host, req.headers['user-agent'], req.headers['x-forwarded-for']).send();
 });
 
 // On lance le serveur sur le port 3000
 app.listen(3000, () => {
   console.log('AUTO | Server is running port 3000');
+
+  visitor.event("Server", "RUN", "localhost:3000", "Node.js", "localhost").send();
 });
 
 async function saveRetards() {
@@ -460,6 +498,8 @@ async function saveRetards() {
         console.error("ERROR | Error retrieving delay data:", error);
       }
     })
+
+    visitor.event("SaveDelays", "GET", "localhost:3000", "Node.js", "localhost").send();
 }
 
 function generatePDF(date, heure, minutes, busData) {
@@ -500,6 +540,8 @@ function generatePDF(date, heure, minutes, busData) {
     }
 
   doc.end();
+
+  visitor.event("GeneratePDF", "GET", "localhost:3000", "Node.js", "localhost").send();
 }
 
 setTimeout(() => {
